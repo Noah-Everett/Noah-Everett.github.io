@@ -1,11 +1,13 @@
 ---
-layout: gallary
+layout: default
 title: "Gallary: Some of my favorite picture"
 permalink: /gallary/
 author_profile: true
 redirect_from:
   - /galary
 ---
+
+text here
 
 <div style="display: flex; flex-wrap: wrap;">
   {% for image in site.static_files %}
