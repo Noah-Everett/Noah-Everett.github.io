@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Gallary: Some of my favorite picture"
 permalink: /gallary/
 author_profile: true
