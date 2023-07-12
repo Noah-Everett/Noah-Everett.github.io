@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image-left](/images/IMG_4990.png){: width="280" } ![image-left](/images/IMG_3949.png){: width="160" } ![image-left](/images/IMG_2788.png){: width="320" }
+<!-- ![image-left](/images/IMG_4990.png){: width="280" } ![image-left](/images/IMG_3949.png){: width="160" } ![image-left](/images/IMG_2788.png){: width="320" } -->
 
 Hello!
 I'm currently an undergradute student at South Dakota Mines studying physics and mathematics with minors in computer science and computational statistics.
