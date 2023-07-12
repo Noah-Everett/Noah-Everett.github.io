@@ -1,8 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-excerpt: "Research"
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /reserch
 ---
 
 <img src="/images/IMG_3566.png" alt="SLAC's nEXO Group" width="300">
