@@ -11,12 +11,13 @@ redirect_from:
 <img src="/images/CRM_diagram_complete.pdf" alt="Cleanroom Environmental Monitoring System" width="300"> -->
 
 ### Search for Dark Photon Decay Via $A'\to\ell^+\ell^-$ in SciBooNE and ANNIE
-<img scr="/images/TOF_LAB.pdf" style="max-height: 250px; margin-right: 16px; margin-bottom: 10px" align=left>
+
+<img src="/images/TOF_LAB.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract** here
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing
-<img scr="/images/exampleLens-7.pdf" style="max-height: 250px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract** here
 {: .notice--info}
 
