@@ -51,7 +51,7 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 ### Isomorphisms for Real Projective Plane Constructions
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract** 
-The real projective plane ($\descR^2$) has three well known isomorphic constructions:
+The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
 the extended Euclidean plane,
 unit (hemi)sphere $S^2$,
 and $\mathbb{R}^3$ vector space.
