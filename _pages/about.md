@@ -31,5 +31,5 @@ This website is a platform where I'm excited to share my passions and experience
 It offers a glimpse into the diverse aspects of my life, whether discussing my research endeavors or sharing insights from the Andrew Huberman podcast. 
 I'm looking forward to connecting with like-minded individuals and fostering meaningful conversations.
 
-<details markdown="1"><summary><b>More about me</b></summary>
-</details>
+<!-- <details markdown="1"><summary><b>More about me</b></summary>
+</details> -->

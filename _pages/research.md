@@ -7,12 +7,11 @@ redirect_from:
   - /reserch
 ---
 
-<!-- <img src="/images/IMG_3566.png" alt="SLAC's nEXO Group" width="300">
-<img src="/images/CRM_diagram_complete.pdf" alt="Cleanroom Environmental Monitoring System" width="300"> -->
-
 ### Search for Dark Photon Decay Via $A'\to\ell^+\ell^-$ in SciBooNE and ANNIE
 <img src="/images/TOF_LAB.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract**
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+</details>
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing
@@ -23,6 +22,8 @@ The paraxial (small angle) approximation is widely used and is easily accessible
 However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
 To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+</details>
 {: .notice--info}
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE
@@ -34,6 +35,10 @@ In addition, ANNIE is also doing detector R&D on new Large Area Picosecond Photo
 To achieve ANNIE’s ambitious physics goals, while fully accommodating its unique R&D campaign, a new likelihood-based reconstruction method is being developed. 
 This reconstruction method will also allow for detailed studies of the current ANNIE detector, along with future detector configurations. 
 In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+[Likelihood-Based Reconstruction Techniques in ANNIE](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing)
+<!-- ``\hrefN{}{},'' APS April Meeting, Neutrinos IV, Minneapolis, MN,  2023 April 15-18 -->
+</details>
 {: .notice--info}
 
 ### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
@@ -46,6 +51,8 @@ Of particular interest, the measurement of the number of final-state neutrons fr
 To study neutrino-argon interactions, we propose to use the currently existing Accelerator Neutrino Neutron Interaction Experiment (ANNIE) at the Booster Neutrino Beam (BNB) at Fermilab. 
 ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
 A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+</details>
 {: .notice--info}
 
 ### Isomorphisms for Real Projective Plane Constructions
@@ -58,6 +65,9 @@ and $\mathbb{R}^3$ vector space.
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+<!-- ``\hrefN{https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing}{Projective Planes and Exploring Their Application in Physics},'' George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation) -->
+</details>
 {: .notice--info}
 
 ### Radon Assay for nEXO
@@ -69,6 +79,8 @@ The radon assay system at SLAC employs an electrostatic chamber (ESC) which is b
 Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
 The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation. 
 This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+</details>
 {: .notice--info}
 
 ### Radon Assay for LZ and SuperCDMS
