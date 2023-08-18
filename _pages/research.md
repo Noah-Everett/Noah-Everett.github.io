@@ -7,6 +7,16 @@ redirect_from:
   - /reserch
 ---
 
+### Using Direction Sensitive Photosenors for Detailed Track Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
+<img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+We propose a novel method for fine grained ($\sim1$ cm) track reconstruction in homogeneous, unsegmented scintillation detectors without the use of electric fields.
+This is made possible using a combination of traditional photosensors combined with a lens system which converts the direction of the incident photon into a physical position able to be measured by a photosensor.
+We call this system a Direction Sensitive PhotoDetector (DSPD).
+<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
+</details>
+{: .notice--info}
+
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE
 <img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
@@ -94,4 +104,5 @@ This new fitting method makes use of the full history of the assay run, which si
 ### Radon Assay for LZ and SuperCDMS
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
+
 {: .notice--info}
