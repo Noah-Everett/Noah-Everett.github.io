@@ -44,7 +44,7 @@ To achieve ANNIE’s ambitious physics goals, while fully accommodating its uniq
 This reconstruction method will also allow for detailed studies of the current ANNIE detector, along with future detector configurations. 
 In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-N. Everett, ``[Likelihood-Based Reconstruction Techniques in ANNIE](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing),'' APS April Meeting, Neutrinos IV Session, Minneapolis, MN,  2023 April 15-18
+N. Everett, "[Likelihood-Based Reconstruction Techniques in ANNIE](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing)," APS April Meeting, Neutrinos IV Session, Minneapolis, MN,  2023 April 15-18
 </details>
 {: .notice--info}
 
@@ -73,7 +73,7 @@ Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-N. Everett, ``\hrefN{https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing}{Projective Planes and Exploring Their Application in Physics},'' George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)
+N. Everett, "[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing)," George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)
 N. Everett, ``[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1VPzmtXg9JYaws5SpZ6AmAGxI3qRunTcA/view?usp=sharing),'' MAA Rocky Mountain Section Meeting, Spearfish, SD,  2023 April 21-22
 </details>
 {: .notice--info}
