@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Search for Dark Photon Decay Via $A'\to\ell^+\ell^-$ in SciBooNE and ANNIE
-<img src="/images/TOF_LAB.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract**
 Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
 Dark photons acquire small couplings to SM fermions through kinetic mixing with the SM $U(1)$ hypercharge group.
