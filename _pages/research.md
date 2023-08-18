@@ -10,14 +10,23 @@ redirect_from:
 ### Search for Dark Photon Decay Via $A'\to\ell^+\ell^-$ in SciBooNE and ANNIE
 <img src="/images/TOF_LAB.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract**
+Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
+Dark photons acquire small couplings to SM fermions through kinetic mixing with the SM $U(1)$ hypercharge group.
+In this report, we investigate using the SciBooNE (Scintillator Booster Neutrino Experiment) experiment to search for dark photons.
+Due to the relatively low energy of the Booster Neutrino Beam, we limit our study to dark photons produced via $\Pi0\to\gamma\Aprime$ requiring $m_\Aprime\leq m_\Pi0/2$.
+This subsequently limits the dark photons decay modes to only $\Aprime\to\epair$.
+We present the expected sensitivity of SciBooNE to dark photons with these constraints and find that it does not probe any unexcluded parameter space.
+While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
+
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
 </details>
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract** here
+**Abstract**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
+
 The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
 However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
 To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
