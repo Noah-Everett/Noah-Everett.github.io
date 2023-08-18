@@ -13,11 +13,10 @@ redirect_from:
 Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
 Dark photons acquire small couplings to SM fermions through kinetic mixing with the SM $U(1)$ hypercharge group.
 In this report, we investigate using the SciBooNE (Scintillator Booster Neutrino Experiment) experiment to search for dark photons.
-Due to the relatively low energy of the Booster Neutrino Beam, we limit our study to dark photons produced via $\Pi0\to\gamma\Aprime$ requiring $m_\Aprime\leq m_\Pi0/2$.
-This subsequently limits the dark photons decay modes to only $\Aprime\to\epair$.
+Due to the relatively low energy of the Booster Neutrino Beam, we limit our study to dark photons produced via $\pi^0\to\gamma A'$ requiring $m_A'\leq m_\pi^0/2$.
+This subsequently limits the dark photons decay modes to only $A'\to e^+e^-$.
 We present the expected sensitivity of SciBooNE to dark photons with these constraints and find that it does not probe any unexcluded parameter space.
 While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
-
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
 </details>
 {: .notice--info}
