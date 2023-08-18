@@ -9,7 +9,7 @@ redirect_from:
 
 ### Search for Dark Photon Decay Via $A'\to\ell^+\ell^-$ in SciBooNE and ANNIE
 <img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract**
+**Abstract:**
 Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
 Dark photons acquire small couplings to SM fermions through kinetic mixing with the SM $U(1)$ hypercharge group.
 In this report, we investigate using the SciBooNE (Scintillator Booster Neutrino Experiment) experiment to search for dark photons.
@@ -23,7 +23,7 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract**
+**Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
 
 The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
@@ -36,7 +36,7 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE
 <img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract** 
+**Abstract:** 
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
 The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
 In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium. 
@@ -50,7 +50,7 @@ N. Everett, ``[Likelihood-Based Reconstruction Techniques in ANNIE](https://driv
 
 ### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
 <img src="/images/Ev-nfn_v06.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract**
+**Abstract:**
 The Deep Underground Neutrino Experiment (DUNE) aims to measure the neutrino CP-violating phase and determine the mass ordering, using the Liquid Argon Time Projection Chamber (LArTPC) technology. 
 These measurements rely on the precise reconstruction of the incoming neutrino energy. 
 However, the nuclear effects on neutrino-nucleus interactions are not well understood in argon, which could affect the precision of the experiment. 
@@ -64,7 +64,7 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 
 ### Isomorphisms for Real Projective Plane Constructions
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract** 
+**Abstract:** 
 The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
 the extended Euclidean plane,
 unit (hemi)sphere $S^2$,
@@ -80,7 +80,7 @@ N. Everett, ``[Projective Planes and Exploring Their Application in Physics](htt
 
 ### Radon Assay for nEXO
 <img src="/images/IMG_3566.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract**
+**Abstract:**
 Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
 To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
 The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
@@ -93,5 +93,5 @@ This new fitting method makes use of the full history of the assay run, which si
 
 ### Radon Assay for LZ and SuperCDMS
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract** here
+**Abstract:** 
 {: .notice--info}
