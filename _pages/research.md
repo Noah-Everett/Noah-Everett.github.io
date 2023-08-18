@@ -73,7 +73,7 @@ Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-N. Everett, "[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing)," George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)
+N. Everett, "[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing)," George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)\
 N. Everett, ``[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1VPzmtXg9JYaws5SpZ6AmAGxI3qRunTcA/view?usp=sharing),'' MAA Rocky Mountain Section Meeting, Spearfish, SD,  2023 April 21-22
 </details>
 {: .notice--info}
