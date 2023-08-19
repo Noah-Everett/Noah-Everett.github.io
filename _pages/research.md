@@ -33,8 +33,7 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 </details>
 {: .notice--info}
 
-### Analytical Meridional, Non-Paraxial Ray Tracing
-[Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
