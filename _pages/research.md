@@ -28,14 +28,14 @@ The focus of my work was to develop a Monte Carlo simulation of the radon assay 
 This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
 <br><br>
 Advisor: Brian Mong, SLAC National Accelerator Laboratory
-{: .notice--info}
+{: .notice}
 
 ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu)
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 <br><br>
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
-{: .notice--info}
+{: .notice}
 
 </details>
 
@@ -61,7 +61,7 @@ This reconstruction method will also allow for detailed studies of the current A
 In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
 <br><br>
 Advisor: Jingbo Wang, South Dakota Mines, Physics Department
-{: .notice--info}
+{: .notice}
 
 ### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
 <img src="/images/Ev-nfn_v06.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -75,7 +75,7 @@ ANNIE is a water-based neutrino detector but can be modified to study neutrino-a
 A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
 <br><br>
 Advisor: Jingbo Wang, South Dakota Mines, Physics Department
-{: .notice--info}
+{: .notice}
 
 </details>
 
@@ -84,16 +84,7 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 <img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathbb{P}^2$ are non-euclidean spaces in which there are no parallel lines.
 
-<details markdown="1">
-  <summary><b>Projects</b></summary>
-  {: .notice}
-  <div style="font-size: 16px;">
-    Your project content goes here.
-    $A'\to\ell$ and $B'\to\ell$ are the two lines that intersect at $P$.
-  </div>
-</details>
-
-<details markdown="1"><summary><b>Projects</b></summary>
+<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
 {: .notice}
 
 ### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -104,10 +95,9 @@ the extended Euclidean plane, unit (hemi)sphere, and $\mathbb{R}^3$ vector space
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
-<!-- {: .notice--info} -->
 {: .notice}
 
-</details>
+</div></details>
 
 # Optical Detector Design
 -----
@@ -128,7 +118,7 @@ This is made possible using a combination of traditional photosensors combined w
 We call this system a Direction Sensitive PhotoDetector (DSPD).
 To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric materail, thus allowing for complete energy reconstruction.
 We present a proof of concept for this detector by simulating a XLZD-sized detector ($\sim40$ tonnes) with Geant4.
-{: .notice--info}
+{: .notice}
 
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -139,7 +129,7 @@ The paraxial (small angle) approximation is widely used and is easily accessible
 However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
 To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
-{: .notice--info}
+{: .notice}
 
 </details>
 
@@ -162,6 +152,6 @@ We present the expected sensitivity of SciBooNE to dark photons with these const
 While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
 <br><br>
 Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
-{: .notice--info}
+{: .notice}
 
 </details>
