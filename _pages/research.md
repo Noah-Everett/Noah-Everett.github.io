@@ -9,6 +9,23 @@ redirect_from:
 
 # Radon Mitiagtion For Rare Event Searches
 <details markdown="1"><summary><b>Projects</b></summary>
+
+### Radon Assay for nEXO
+<img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
+To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
+The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
+Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
+The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation. 
+This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
+{: .notice--info}
+
+### Radon Assay for LZ and SuperCDMS
+<img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:** 
+{: .notice--info}
+
 </details>
 
 # Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
@@ -91,23 +108,4 @@ Additionally, we propose several interesting uses of these constructions and the
 N. Everett, "[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing)," George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)\
 N. Everett, ``[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1VPzmtXg9JYaws5SpZ6AmAGxI3qRunTcA/view?usp=sharing),'' MAA Rocky Mountain Section Meeting, Spearfish, SD,  2023 April 21-22
 </details>
-{: .notice--info}
-
-### Radon Assay for nEXO
-<img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
-To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
-The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
-Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
-The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation. 
-This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-</details>
-{: .notice--info}
-
-### Radon Assay for LZ and SuperCDMS
-<img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:** 
-
 {: .notice--info}
