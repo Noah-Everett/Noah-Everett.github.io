@@ -84,7 +84,7 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 <img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathbb{P}^2$ are non-euclidean spaces in which there are no parallel lines.
 
-<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
+<details markdown="1"><summary><b>Projects</b></summary><font size="3">
 {: .notice}
 
 ### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -97,7 +97,7 @@ Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
 {: .notice}
 
-</div></details>
+</font></details>
 
 # Optical Detector Design
 -----
