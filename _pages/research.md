@@ -20,6 +20,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 {: .notice--info}
 
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE
+[Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Read More](/nll/){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
