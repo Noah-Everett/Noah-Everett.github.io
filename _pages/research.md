@@ -27,7 +27,7 @@ Analysis software is used to convert the measured alpha decay rates and energies
 The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation. 
 This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
 <br><br>
-Advisor: Brian Mong, SLAC
+Advisor: Brian Mong, SLAC National Accelerator Laboratory
 {: .notice--info}
 
 ### Radon Assay for LZ and SuperCDMS
