@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
 <!-- ![image-left](/images/IMG_4990.png){: width="280" } ![image-left](/images/IMG_3949.png){: width="160" } ![image-left](/images/IMG_2788.png){: width="320" } -->
 ![Image 1](/images/IMG_3566.png){: style="width: 100%; object-fit: cover;" }
 ![Image 2](/images/IMG_4765.png){: style="width: 100%; object-fit: cover;" }
+
+### About Me
 
 Hello!
 
