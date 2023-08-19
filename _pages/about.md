@@ -9,8 +9,17 @@ redirect_from:
 ---
 
 <!-- ![image-left](/images/IMG_4990.png){: width="280" } ![image-left](/images/IMG_3949.png){: width="160" } ![image-left](/images/IMG_2788.png){: width="320" } -->
-![Image 1](/images/IMG_3566.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 20px;" }
-![Image 2](/images/IMG_4765.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 30px;" }
+<!-- ![Image 1](/images/IMG_3566.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 20px;" }
+![Image 2](/images/IMG_4765.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 30px;" } -->
+
+<div style="display: flex; flex-direction: column; width: 100%;">
+  <div style="width: 100%; overflow: hidden;">
+    <img src="/images/IMG_3566.png" style="width: 100%; object-fit: cover; height: 200px;">
+  </div>
+  <div style="width: 100%; overflow: hidden;">
+    <img src="/images/IMG_4765.png" style="width: 100%; object-fit: cover; height: 200px;">
+  </div>
+</div>
 
 Hello!
 
