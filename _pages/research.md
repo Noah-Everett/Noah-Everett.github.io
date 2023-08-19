@@ -14,7 +14,7 @@ We propose a novel method for fine grained ($\sim1$ cm) topological reconstructi
 This is made possible using a combination of traditional photosensors combined with a lens system which converts the direction of the incident photon into a physical position able to be measured by a photosensor.
 We call this system a Direction Sensitive PhotoDetector (DSPD).
 To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric materail, thus allowing for complete energy reconstruction.
-We present a proof of concept for this detector by simulating a XLZD-sized detector ($\approx40$ tonnes) with $\textsc{Geant}4$.
+We present a proof of concept for this detector by simulating a XLZD-sized detector ($\approx40$ tonnes) with Geant4.
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
 </details>
 {: .notice--info}
