@@ -91,7 +91,7 @@ N. Everett, ``[Projective Planes and Exploring Their Application in Physics](htt
 {: .notice--info}
 
 ### Radon Assay for nEXO
-<img src="/images/IMG_3566.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
 To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
