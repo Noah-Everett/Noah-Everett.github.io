@@ -7,17 +7,37 @@ redirect_from:
   - /reserch
 ---
 
-# Radon Mitiagtion
+# Radon Mitiagtion For Rare Event Searches
+<details markdown="1"><summary><b>Projects</b></summary>
+</details>
 
-## Radon Mitiagtion
+# Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
+<details markdown="1"><summary><b>Projects</b></summary>
 
-### Radon Mitiagtion
+### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Unpublished Note](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}[Conference Talk](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+<img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:** 
+ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
+The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
+In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium. 
+To achieve ANNIE’s ambitious physics goals, while fully accommodating its unique R&D campaign, a new likelihood-based reconstruction method is being developed. 
+This reconstruction method will also allow for detailed studies of the current ANNIE detector, along with future detector configurations. 
+In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
+{: .notice--info}
 
-#### Radon Mitiagtion
+### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
+<img src="/images/Ev-nfn_v06.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+The Deep Underground Neutrino Experiment (DUNE) aims to measure the neutrino CP-violating phase and determine the mass ordering, using the Liquid Argon Time Projection Chamber (LArTPC) technology. 
+These measurements rely on the precise reconstruction of the incoming neutrino energy. 
+However, the nuclear effects on neutrino-nucleus interactions are not well understood in argon, which could affect the precision of the experiment. 
+Of particular interest, the measurement of the number of final-state neutrons from neutrino interactions can help constrain the theoretical neutrino-nucleus interaction models. 
+To study neutrino-argon interactions, we propose to use the currently existing Accelerator Neutrino Neutron Interaction Experiment (ANNIE) at the Booster Neutrino Beam (BNB) at Fermilab. 
+ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
+A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
+{: .notice--info}
 
-##### Radon Mitiagtion
-
-###### Radon Mitiagtion
+</details>
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -27,8 +47,6 @@ This is made possible using a combination of traditional photosensors combined w
 We call this system a Direction Sensitive PhotoDetector (DSPD).
 To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric materail, thus allowing for complete energy reconstruction.
 We present a proof of concept for this detector by simulating a XLZD-sized detector ($\sim40$ tonnes) with Geant4.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-</details>
 {: .notice--info}
 
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE [Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -58,33 +76,6 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 </details>
 {: .notice--info}
 
-### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Read More](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:** 
-ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
-The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
-In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium. 
-To achieve ANNIE’s ambitious physics goals, while fully accommodating its unique R&D campaign, a new likelihood-based reconstruction method is being developed. 
-This reconstruction method will also allow for detailed studies of the current ANNIE detector, along with future detector configurations. 
-In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-N. Everett, "[Likelihood-Based Reconstruction Techniques in ANNIE](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing)," APS April Meeting, Neutrinos IV Session, Minneapolis, MN,  2023 April 15-18
-</details>
-{: .notice--info}
-
-### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
-<img src="/images/Ev-nfn_v06.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-The Deep Underground Neutrino Experiment (DUNE) aims to measure the neutrino CP-violating phase and determine the mass ordering, using the Liquid Argon Time Projection Chamber (LArTPC) technology. 
-These measurements rely on the precise reconstruction of the incoming neutrino energy. 
-However, the nuclear effects on neutrino-nucleus interactions are not well understood in argon, which could affect the precision of the experiment. 
-Of particular interest, the measurement of the number of final-state neutrons from neutrino interactions can help constrain the theoretical neutrino-nucleus interaction models. 
-To study neutrino-argon interactions, we propose to use the currently existing Accelerator Neutrino Neutron Interaction Experiment (ANNIE) at the Booster Neutrino Beam (BNB) at Fermilab. 
-ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
-A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-</details>
-{: .notice--info}
 
 ### Isomorphisms for Real Projective Plane Constructions
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
