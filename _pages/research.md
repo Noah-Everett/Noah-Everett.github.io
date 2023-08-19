@@ -127,6 +127,8 @@ Due to the relatively low energy of the Booster Neutrino Beam, we limit our stud
 This subsequently limits the dark photons decay modes to only $A'\to e^+e^-$ as we assume $m_{A'} < 2m_\chi$.
 We present the expected sensitivity of SciBooNE to dark photons with these constraints and find that it does not probe any unexcluded parameter space.
 While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
+<br><br>
+Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
