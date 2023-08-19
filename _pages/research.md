@@ -9,6 +9,7 @@ redirect_from:
 
 # Radon Mitiagtion For Rare Event Searches
 <details markdown="1"><summary><b>Projects</b></summary>
+<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
 To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
 
@@ -25,7 +26,6 @@ This new fitting method makes use of the full history of the assay run, which si
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 {: .notice--info}
-
 </details>
 
 
@@ -36,6 +36,7 @@ This new fitting method makes use of the full history of the assay run, which si
 
 
 # Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
+<img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
 The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
 In addition, ANNIE is also doing detector R\&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
@@ -64,7 +65,6 @@ To study neutrino-argon interactions, we propose to use the currently existing A
 ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
 A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
 {: .notice--info}
-
 </details>
 
 
@@ -74,6 +74,19 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 
 # Isomorphisms For Projective Plane/Space Constructions
 
+<details markdown="1"><summary><b>Projects</b></summary>
+### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+<img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:** 
+The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
+the extended Euclidean plane,
+unit (hemi)sphere $S^2$,
+and $\mathbb{R}^3$ vector space.
+Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
+Thus, we find isomorphisms that map between these three constructions.
+Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
+{: .notice--info}
+</details>
 
 
 
@@ -120,14 +133,3 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 {: .notice--info}
 
 
-### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:** 
-The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
-the extended Euclidean plane,
-unit (hemi)sphere $S^2$,
-and $\mathbb{R}^3$ vector space.
-Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
-Thus, we find isomorphisms that map between these three constructions.
-Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
-{: .notice--info}
