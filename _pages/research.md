@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 # Radon Mitiagtion For Rare Event Searches
-<details markdown="1"><summary><b>Projects</b></summary>
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
 To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
 
+<details markdown="1"><summary><b>Projects</b></summary>
 ### Radon Assay for nEXO
 <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
