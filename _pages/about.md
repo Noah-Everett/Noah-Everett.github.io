@@ -29,7 +29,7 @@ Engaging with the SPS community has been a rewarding experience, allowing me to 
 
 Beyond academics and leadership, I find AI, particularly generative AI and Large Language Models (LLMs), deeply fascinating. 
 Though I haven't personally worked on AI projects, I avidly keep up-to-date with the latest developments and breakthroughs in the field.
-I also listen to academic podcasts, such as the Lex Fridman show and the Andrew Huberman Podcasts, have become regular companions on my learning journey.
+I also listen to academic podcasts, such as the Lex Fridman show and the Andrew Huberman Podcasts, which have become regular companions on my learning journey.
 
 This website is a platform where I'm excited to share my passions and experiences. 
 It offers a glimpse into the diverse aspects of my life, whether discussing my research endeavors or sharing health/fitness insights.
