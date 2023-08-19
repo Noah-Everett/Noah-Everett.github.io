@@ -26,14 +26,8 @@ This new fitting method makes use of the full history of the assay run, which si
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 {: .notice--info}
+
 </details>
-
-
-
-
-
-
-
 
 # Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
 <img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -65,12 +59,8 @@ To study neutrino-argon interactions, we propose to use the currently existing A
 ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
 A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
 {: .notice--info}
+
 </details>
-
-
-
-
-
 
 # Isomorphisms For Projective Plane/Space Constructions
 
@@ -86,17 +76,8 @@ Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
 {: .notice--info}
+
 </details>
-
-
-
-
-
-
-
-
-
-
 
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
