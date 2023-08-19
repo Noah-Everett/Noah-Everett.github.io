@@ -17,7 +17,6 @@ While radon is not abundant in many materials, its parent isotopes—radium and 
 When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
 Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done using a radon assay system.
 This data informs the choice of materials and components, mitigating radon-incuded backgrounds on the detector.
-{: .notice--info}
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
