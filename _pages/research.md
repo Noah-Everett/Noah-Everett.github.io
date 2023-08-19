@@ -10,10 +10,11 @@ redirect_from:
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
-We propose a novel method for fine grained ($\sim1$ cm) topological reconstruction in homogeneous, unsegmented scintillation detectors without the use of electric fields.
+We propose a novel method for fine grained ($\sim1$ cm) topological reconstruction in homogeneous, unsegmented scintillation detectors without the use of large electric fields used to drift charged particles such as those in NEXT, MicroBooNE, DUNE, etc.
 This is made possible using a combination of traditional photosensors combined with a lens system which converts the direction of the incident photon into a physical position able to be measured by a photosensor.
 We call this system a Direction Sensitive PhotoDetector (DSPD).
-By instramenting a detector with 
+To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric materail, thus allowing for complete energy reconstruction.
+We present a proof of concept for this detector by simulating a XLZD-sized detector ($\approx40$ tonnes) with $\textsc{Geant}4$.
 <details markdown="1"><summary><b>Selected Public Presentations</b></summary>
 </details>
 {: .notice--info}
