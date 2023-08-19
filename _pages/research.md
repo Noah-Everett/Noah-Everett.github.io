@@ -104,7 +104,8 @@ the extended Euclidean plane, unit (hemi)sphere, and $\mathbb{R}^3$ vector space
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
-{: .notice--info}
+<!-- {: .notice--info} -->
+{: .notice}
 
 </details>
 
