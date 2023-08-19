@@ -16,7 +16,7 @@ When radium decays, the daughter radon atom can emanate out of materials and rea
 Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done using a radon assay system.
 This data informs the choice of materials and components, mitigating radon-incuded backgrounds on the detector.
 
-<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
+<details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Radon Assay for [nEXO](https://nexo.llnl.gov)
@@ -37,7 +37,7 @@ Advisor: Brian Mong, SLAC National Accelerator Laboratory
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
 {: .notice}
 
-</div></details>
+</details>
 
 # Accelerator Neutrino Neutron Interaction Experiment ([ANNIE](https://annie.fnal.gov))
 -----
@@ -47,7 +47,7 @@ The primary physics goal of ANNIE is to make precision measurements of the numbe
 In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
 The ANNIE collaboration consists of more than 40 collaborators from 19 institutions and 2 national labs in 5 countries.
 
-<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
+<details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Unpublished Note](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}[Conference Talk](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -77,14 +77,14 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 {: .notice}
 
-</div></details>
+</details>
 
 # Isomorphisms For Projective Plane/Space Constructions
 -----
 <img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathbb{P}^2$ are non-euclidean spaces in which there are no parallel lines.
 
-<details markdown="1"><summary><b>Projects</b></summary><font size="3">
+<details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -97,7 +97,7 @@ Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
 {: .notice}
 
-</font></details>
+</details>
 
 # Optical Detector Design
 -----
@@ -107,7 +107,7 @@ These photons are used to reconstruct the charged particle's trajectory and ener
 The design of these optical detectors is crucial to the success of the experiment.
 *written with ChatGPT, will change later*
 
-<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
+<details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
@@ -131,13 +131,13 @@ To this end, we present an analytical method for non-paraxial, meridional ray tr
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
 {: .notice}
 
-</div></details>
+</details>
 
 # Theoretical Particle Physics Projects
 -----
 <img src="/images/A'.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 
-<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
+<details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE [Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -154,4 +154,4 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
 {: .notice}
 
-</div></details>
+</details>
