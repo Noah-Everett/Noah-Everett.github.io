@@ -19,8 +19,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 </details>
 {: .notice--info}
 
-### Search for Visible Dark Photon Decay in SciBooNE and ANNIE
-[Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Read More](/nll/){: .btn .btn--info .btn--small}{: .align-right}
+### Search for Visible Dark Photon Decay in SciBooNE and ANNIE [Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 Dark photons ($A'$) are a theorized extension to the Standard Model (SM) which could help explain the mystery of dark matter.
@@ -35,6 +34,7 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing
+[Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
@@ -47,7 +47,7 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 </details>
 {: .notice--info}
 
-### Likelihood-based Charged Lepton Track Reconstruction for ANNIE
+### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Read More](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
