@@ -32,7 +32,7 @@ Though I haven't personally worked on AI projects, I avidly keep up-to-date with
 I also listen to academic podcasts, such as the Lex Fridman show and the Andrew Huberman Podcasts, have become regular companions on my learning journey.
 
 This website is a platform where I'm excited to share my passions and experiences. 
-It offers a glimpse into the diverse aspects of my life, whether discussing my research endeavors or sharing insights from the Andrew Huberman podcast. 
+It offers a glimpse into the diverse aspects of my life, whether discussing my research endeavors or sharing health/fitness insights.
 I'm looking forward to connecting with like-minded individuals and fostering meaningful conversations.
 
 <!-- <details markdown="1"><summary><b>More about me</b></summary>
