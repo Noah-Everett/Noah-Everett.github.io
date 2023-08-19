@@ -9,20 +9,14 @@ redirect_from:
 
 # Radon Mitiagtion For Rare Event Searches
 -----
-<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
-To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
+<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left> Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce.  To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
 ### Radon Assay for nEXO
 <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
-Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
-The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation. 
-This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
+**Abstract:** The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy.  Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.  The focus of my work was to develop a Monte Carlo simulation of the radon assay system to check new fitting routines, and to also develop a new fitting method to determine the initial populations of atoms supporting the radon emanation.  This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
 {: .notice--info}
 
 ### Radon Assay for LZ and SuperCDMS
