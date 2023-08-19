@@ -19,7 +19,7 @@ This data informs the choice of materials and components, mitigating radon-incud
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Radon Assay for nEXO
+### Radon Assay for [nEXO](https://nexo.llnl.gov)
 <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
@@ -30,7 +30,7 @@ This new fitting method makes use of the full history of the assay run, which si
 Advisor: Brian Mong, SLAC National Accelerator Laboratory
 {: .notice--info}
 
-### Radon Assay for LZ and SuperCDMS
+### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu)
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 <br><br>
@@ -39,7 +39,7 @@ Advisor: Richard Schnee, South Dakota Mines, Physics Department
 
 </details>
 
-# [Accelerator Neutrino Neutron Interaction Experiment (ANNIE)](https://annie.fnal.gov)
+# Accelerator Neutrino Neutron Interaction Experiment ([ANNIE](https://annie.fnal.gov))
 -----
 <img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
