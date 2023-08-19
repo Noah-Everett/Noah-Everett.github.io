@@ -14,10 +14,10 @@ redirect_from:
 
 <div style="width: 100%;">
   <div style="width: 100%; height: 180px; overflow: hidden; position: relative;">
-    <img src="/images/IMG_4990.png" style="width: 100%; position: absolute; top: -50px;">
+    <img src="/images/IMG_4990.png" style="width: 100%; position: absolute; top: -5px;">
   </div>
   <div style="width: 100%; height: 180px; overflow: hidden; position: relative;">
-    <img src="/images/IMG_3566.png" style="width: 100%; position: absolute; top: -30px;">
+    <img src="/images/IMG_3566.png" style="width: 100%; position: absolute; top: -8px;">
   </div>
 </div>
 
