@@ -103,7 +103,7 @@ Additionally, we propose several interesting uses of these constructions and the
 
 # Optical Detector Design
 -----
-<img src="/images/exampleLens-19.gif" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Optical detectors are used in particle physics experiments to detect photons produced by charged particles.
 These photons are used to reconstruct the charged particle's trajectory and energy.
 The design of these optical detectors is crucial to the success of the experiment.
@@ -124,7 +124,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
 The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
@@ -135,7 +135,7 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 
 </details>
 
-# Other Projects
+# Theoretical Particle Physics Projects
 -----
 
 <details markdown="1"><summary><b>Projects</b></summary>
