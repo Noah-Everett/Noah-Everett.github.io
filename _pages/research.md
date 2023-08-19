@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 # Radon Mitiagtion For Rare Event Searches
+-----
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Radon is the largest source of backgrounds for many particle physics experiments like LUX-ZEPLIN, XENONnT, and nEXO because of the broad range of particles and energies its daughter’s decays produce. 
 To minimize the backgrounds from radon, it is necessary to select materials that produce the least amount of this radioactive noble gas. 
 
 <details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
+
 ### Radon Assay for nEXO
 <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
@@ -30,12 +33,15 @@ This new fitting method makes use of the full history of the assay run, which si
 </details>
 
 # Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
+-----
 <img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
 The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
 In addition, ANNIE is also doing detector R\&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
 The ANNIE collaboration consists of more than 40 collaborators from 19 institutions and 2 national labs in 5 countries.
+
 <details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Unpublished Note](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}[Conference Talk](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -65,6 +71,8 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 # Isomorphisms For Projective Plane/Space Constructions
 
 <details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
+
 ### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
@@ -78,7 +86,6 @@ Additionally, we propose several interesting uses of these constructions and the
 {: .notice--info}
 
 </details>
-
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
