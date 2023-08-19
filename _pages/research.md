@@ -101,8 +101,9 @@ Additionally, we propose several interesting uses of these constructions and the
 
 </details>
 
-# Other Projects
+# Optical Detector Design
 -----
+<img src="/images/exampleLens-19.gif" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
@@ -117,6 +118,25 @@ To increase the angular sensitivity of each DSPD, we limit their field of view u
 We present a proof of concept for this detector by simulating a XLZD-sized detector ($\sim40$ tonnes) with Geant4.
 {: .notice--info}
 
+
+### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+<img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+The study of light propagation in optical systems is crucial for various scientific and technological applications. 
+The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
+However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
+To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
+This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
+{: .notice--info}
+
+</details>
+
+# Other Projects
+-----
+
+<details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
+
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE [Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/reach+exp_sensativity-15.pdf" style="max-height: 250px; max-width: 1000px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
@@ -129,16 +149,6 @@ We present the expected sensitivity of SciBooNE to dark photons with these const
 While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
 <br><br>
 Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
-{: .notice--info}
-
-### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-The study of light propagation in optical systems is crucial for various scientific and technological applications. 
-The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
-However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
-To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
-This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
 {: .notice--info}
 
 </details>
