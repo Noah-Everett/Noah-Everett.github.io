@@ -59,6 +59,8 @@ In addition, ANNIE is also doing detector R&D on new Large Area Picosecond Photo
 To achieve ANNIE’s ambitious physics goals, while fully accommodating its unique R&D campaign, a new likelihood-based reconstruction method is being developed. 
 This reconstruction method will also allow for detailed studies of the current ANNIE detector, along with future detector configurations. 
 In addition, the methodology used to develop this reconstruction method can be generically applied to other optical experiments for reconstruction and detector studies. 
+<br><br>
+Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 {: .notice--info}
 
 ### Feasibility Study For Neutrino-Argon Interaction Measurement in ANNIE
@@ -71,6 +73,8 @@ Of particular interest, the measurement of the number of final-state neutrons fr
 To study neutrino-argon interactions, we propose to use the currently existing Accelerator Neutrino Neutron Interaction Experiment (ANNIE) at the Booster Neutrino Beam (BNB) at Fermilab. 
 ANNIE is a water-based neutrino detector but can be modified to study neutrino-argon interactions such as those in DUNE. 
 A feasible experimental strategy is to deploy a liquid argon target at ANNIE's fiducial volume location.
+<br><br>
+Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 {: .notice--info}
 
 </details>
