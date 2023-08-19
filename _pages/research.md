@@ -84,6 +84,14 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 <img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathbb{P}^2$ are non-euclidean spaces in which there are no parallel lines.
 
+<details markdown="1">
+  <summary><b>Projects</b></summary>
+  <div style="font-size: 16px;">
+    Your project content goes here.
+    $A'\to\ell$ and $B'\to\ell$ are the two lines that intersect at $P$.
+  </div>
+</details>
+
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
@@ -91,9 +99,7 @@ Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathb
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
-the extended Euclidean plane,
-unit (hemi)sphere $S^2$,
-and $\mathbb{R}^3$ vector space.
+the extended Euclidean plane, unit (hemi)sphere, and $\mathbb{R}^3$ vector space.
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
