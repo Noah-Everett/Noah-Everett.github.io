@@ -11,10 +11,10 @@ redirect_from:
 -----
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its daughter elements' decays. 
-While radon is not abundant, its parent isotopes—radium and thorium—prevail widely due to their significant half-lives.
-These isotopes decay, generating radon that can emanate out of materials and reach the detector. 
-Minimizing radon-induced backgrounds necessitates selecting low-contribution materials, determined through radon assay systems measuring emanation rates. 
-This informs the choice of materials and components, mitigating radon-incuded backgrounds on the detector.
+While radon is not abundant in many materials, its parent isotopes—radium and thorium—prevail widely due to their significantly longer half-lives.
+When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
+Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done using a radon assay system.
+This data informs the choice of materials and components, mitigating radon-incuded backgrounds on the detector.
 {: .notice--info}
 
 <details markdown="1"><summary><b>Projects</b></summary>
