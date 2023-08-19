@@ -81,8 +81,13 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 
 # Isomorphisms For Projective Plane/Space Constructions
 -----
-<img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathbb{P}^2$ are non-euclidean spaces in which there are no parallel lines.
+<img src="/images/IRL-PP-Example.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+Real projective planes $(\mathbb{R}\mathbb{P}^2)$ and projective spaces $(\mathbb{R}\mathbb{P}^n)$ are non-euclidean spaces in which there are no parallel lines.
+Such a space is not commonly used outside of mathematics as Euclidean spaces are more intuitive.
+However, projective spaces are somewhat natural in real life.
+Take for example a set of parallel train tracks.
+As the tracks extend to the horizon, they appear to converge at a point infinitely far away.
+This is the same idea used in projective geometry.
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
