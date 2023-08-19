@@ -77,6 +77,8 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 
 # Isomorphisms For Projective Plane/Space Constructions
 -----
+<img src="/images/Finding_Projective_Plane_Isomorphisms_And_Exploring_Their_Applications_in_Particle_Physics_Detectors-29.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+here
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
