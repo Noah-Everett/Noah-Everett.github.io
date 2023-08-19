@@ -76,6 +76,7 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 </details>
 
 # Isomorphisms For Projective Plane/Space Constructions
+-----
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
@@ -95,6 +96,7 @@ Additionally, we propose several interesting uses of these constructions and the
 </details>
 
 # Other Projects
+-----
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
@@ -125,7 +127,6 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
-
 The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
 However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
 To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
