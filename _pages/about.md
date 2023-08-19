@@ -9,17 +9,8 @@ redirect_from:
 ---
 
 <!-- ![image-left](/images/IMG_4990.png){: width="280" } ![image-left](/images/IMG_3949.png){: width="160" } ![image-left](/images/IMG_2788.png){: width="320" } -->
-<!-- ![Image 1](/images/IMG_3566.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 20px;" }
-![Image 2](/images/IMG_4765.png){: style="width: 100%; max-height: 180px; object-fit: cover; margin-top: 30px;" } -->
-
-<div style="width: 100%;">
-  <div style="width: 100%; height: 180px; overflow: hidden; position: relative;">
-    <img src="/images/IMG_4990.png" style="width: 100%; position: absolute; top: -5px;">
-  </div>
-  <div style="width: 100%; height: 180px; overflow: hidden; position: relative;">
-    <img src="/images/IMG_3566.png" style="width: 100%; position: absolute; top: -8px;">
-  </div>
-</div>
+![Image 1](/images/IMG_3566 2 (1).png){: style="width: 100%; max-height: 180px; object-fit: cover;" }
+![Image 2](/images/IMG_4765.png){: style="width: 100%; max-height: 180px; object-fit: cover;" }
 
 Hello!
 
