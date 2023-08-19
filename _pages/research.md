@@ -7,8 +7,6 @@ redirect_from:
   - /reserch
 ---
 
-here
-
 # Radon Mitiagtion For Rare Event Searches
 -----
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -96,6 +94,11 @@ Additionally, we propose several interesting uses of these constructions and the
 
 </details>
 
+# Other Projects
+
+<details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
+
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
@@ -129,4 +132,4 @@ To this end, we present an analytical method for non-paraxial, meridional ray tr
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
 {: .notice--info}
 
-
+</details>
