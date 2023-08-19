@@ -7,6 +7,8 @@ redirect_from:
   - /reserch
 ---
 
+here
+
 # Radon Mitiagtion For Rare Event Searches
 -----
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
