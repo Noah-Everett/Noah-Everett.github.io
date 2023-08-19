@@ -86,6 +86,7 @@ Projective spaces $\mathbb{R}\mathbb{P}^n$ or projective plane $\mathbb{R}\mathb
 
 <details markdown="1">
   <summary><b>Projects</b></summary>
+  {: .notice}
   <div style="font-size: 16px;">
     Your project content goes here.
     $A'\to\ell$ and $B'\to\ell$ are the two lines that intersect at $P$.
