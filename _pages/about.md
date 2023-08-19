@@ -27,7 +27,7 @@ Together, we share knowledge, support one another, and stay motivated on our per
 In addition to my role in the Health and Fitness Club, I'm honored to serve as an assistant councilor for the Society of Physics Students (SPS) in zone 11, representing states including Minnesota, South Dakota, North Dakota, Iowa, and Nebraska. 
 Engaging with the SPS community has been a rewarding experience, allowing me to contribute to physics education and outreach initiatives.
 
-Beyond academics and leadership, I find AI, particularly generative AI and Language Model Models (LLMs), deeply fascinating. 
+Beyond academics and leadership, I find AI, particularly generative AI and Large Language Models (LLMs), deeply fascinating. 
 Though I haven't personally worked on AI projects, I avidly keep up-to-date with the latest developments and breakthroughs in the field.
 I also listen to academic podcasts, such as the Lex Fridman show and the Andrew Huberman Podcasts, have become regular companions on my learning journey.
 
