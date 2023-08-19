@@ -16,7 +16,7 @@ When radium decays, the daughter radon atom can emanate out of materials and rea
 Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done using a radon assay system.
 This data informs the choice of materials and components, mitigating radon-incuded backgrounds on the detector.
 
-<details markdown="1"><summary><b>Projects</b></summary>
+<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
 {: .notice}
 
 ### Radon Assay for [nEXO](https://nexo.llnl.gov)
@@ -37,7 +37,7 @@ Advisor: Brian Mong, SLAC National Accelerator Laboratory
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
 {: .notice}
 
-</details>
+</div></details>
 
 # Accelerator Neutrino Neutron Interaction Experiment ([ANNIE](https://annie.fnal.gov))
 -----
@@ -47,7 +47,7 @@ The primary physics goal of ANNIE is to make precision measurements of the numbe
 In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
 The ANNIE collaboration consists of more than 40 collaborators from 19 institutions and 2 national labs in 5 countries.
 
-<details markdown="1"><summary><b>Projects</b></summary>
+<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
 {: .notice}
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Unpublished Note](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}[Conference Talk](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -77,7 +77,7 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 {: .notice}
 
-</details>
+</div></details>
 
 # Isomorphisms For Projective Plane/Space Constructions
 -----
@@ -107,7 +107,7 @@ These photons are used to reconstruct the charged particle's trajectory and ener
 The design of these optical detectors is crucial to the success of the experiment.
 *written with ChatGPT, will change later*
 
-<details markdown="1"><summary><b>Projects</b></summary>
+<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
 {: .notice}
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
@@ -131,13 +131,13 @@ To this end, we present an analytical method for non-paraxial, meridional ray tr
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
 {: .notice}
 
-</details>
+</div></details>
 
 # Theoretical Particle Physics Projects
 -----
 <img src="/images/A'.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 
-<details markdown="1"><summary><b>Projects</b></summary>
+<details markdown="1"><summary><b>Projects</b></summary><div style="font-size: 16px;">
 {: .notice}
 
 ### Search for Visible Dark Photon Decay in SciBooNE and ANNIE [Preprint](https://drive.google.com/file/d/1rfW47OuC8Mk8fj-Vm9g3RvSR7N3_EiAV/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -154,4 +154,4 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
 {: .notice}
 
-</details>
+</div></details>
