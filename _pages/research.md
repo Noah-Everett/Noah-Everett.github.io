@@ -104,6 +104,10 @@ Additionally, we propose several interesting uses of these constructions and the
 # Optical Detector Design
 -----
 <img src="/images/exampleLens-19.gif" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+Optical detectors are used in particle physics experiments to detect photons produced by charged particles.
+These photons are used to reconstruct the charged particle's trajectory and energy.
+The design of these optical detectors is crucial to the success of the experiment.
+*written with ChatGPT, will change later*
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
