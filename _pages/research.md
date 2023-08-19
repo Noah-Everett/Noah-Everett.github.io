@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -27,6 +27,13 @@ This new fitting method makes use of the full history of the assay run, which si
 {: .notice--info}
 
 </details>
+
+
+
+
+
+
+
 
 # Accelerator Neutrino Neutron Interaction Experiment (ANNIE)
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
@@ -60,6 +67,25 @@ A feasible experimental strategy is to deploy a liquid argon target at ANNIE's f
 
 </details>
 
+
+
+
+
+
+# Isomorphisms For Projective Plane/Space Constructions
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
@@ -80,8 +106,6 @@ Due to the relatively low energy of the Booster Neutrino Beam, we limit our stud
 This subsequently limits the dark photons decay modes to only $A'\to e^+e^-$ as we assume $m_{A'} < 2m_\chi$.
 We present the expected sensitivity of SciBooNE to dark photons with these constraints and find that it does not probe any unexcluded parameter space.
 While SciBooNE may not be useful for probing this specific model for beyond the standard model (BSM) physics, we should strive to make full use of all experiments, both current and past, to further advance physics.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-</details>
 {: .notice--info}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
@@ -93,12 +117,10 @@ The paraxial (small angle) approximation is widely used and is easily accessible
 However, the paraxial approximation fails to accurately describe light behavior at non-small angles or with surfaces (lenses or mirrors) which are not approximately linear and perpendicular to the optical axis.
 To this end, we present an analytical method for non-paraxial, meridional ray tracing through a system of basic geometric surfaces derivable from a generalized ellipse; i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-</details>
 {: .notice--info}
 
 
-### Isomorphisms for Real Projective Plane Constructions
+### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
@@ -108,8 +130,4 @@ and $\mathbb{R}^3$ vector space.
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
-<details markdown="1"><summary><b>Selected Public Presentations</b></summary>
-N. Everett, "[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing)," George F. Duck Math Colloquium, Rapid City, SD,  2023 April 28 (Oral Presentation)\
-N. Everett, ``[Projective Planes and Exploring Their Application in Physics](https://drive.google.com/file/d/1VPzmtXg9JYaws5SpZ6AmAGxI3qRunTcA/view?usp=sharing),'' MAA Rocky Mountain Section Meeting, Spearfish, SD,  2023 April 21-22
-</details>
 {: .notice--info}
