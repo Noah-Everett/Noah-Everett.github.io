@@ -44,7 +44,7 @@ Advisor: Richard Schnee, South Dakota Mines, Physics Department
 <img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutrino Beam (BNB) at Fermilab. 
 The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
-In addition, ANNIE is also doing detector R\&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
+In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
 The ANNIE collaboration consists of more than 40 collaborators from 19 institutions and 2 national labs in 5 countries.
 
 <details markdown="1"><summary><b>Projects</b></summary>
@@ -143,6 +143,7 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 
 # Theoretical Particle Physics Projects
 -----
+<img src="/images/A'.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
