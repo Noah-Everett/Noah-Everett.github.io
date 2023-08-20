@@ -81,13 +81,26 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 
 # Isomorphisms For Projective Plane/Space Constructions
 -----
-<img src="/images/IRL-PP-Example.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-Real projective planes $(\mathbb{R}\mathbb{P}^2)$ and projective spaces $(\mathbb{R}\mathbb{P}^n)$ are non-euclidean spaces in which there are no parallel lines.
-Such a space is not commonly used outside of mathematics as Euclidean spaces are more intuitive.
+<img src="/images/IRL-PP-Example copy.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+Projective geometry is a 
+
+Real projective planes $(\mathbb{R}\mathbb{P}^2)$ and projective spaces $(\mathbb{R}\mathbb{P}^n)$ venture into the realm of non-Euclidean geometry, where parallel lines cease to exist. While less utilized beyond pure mathematics due to the dominance of Euclidean space's familiarity, projective spaces possess a subtle resonance with reality.
+
+Consider parallel train tracks that seemingly converge at an infinitely distant point on the horizon. This optical illusion mirrors projective geometry's essence—a convergence of elements towards a distant, conceptual infinity. This abstraction not only offers insight into the real world but also provides a language to articulate complex relationships.
+
+In essence, real projective planes and spaces invite us to explore non-Euclidean landscapes. While predominantly a mathematical pursuit, their ability to capture real-world phenomena, like the convergence of parallel lines, highlights their lasting relevance. This framework stands as a testament to the interplay between mathematical creativity and the patterns of the world.
+
+
+
+
+
+Real projective planes $(\mathbb{R}\mathbb{P}^2)$ and projective spaces $(\mathbb{R}\mathbb{P}^n)$ are non-Euclidean spaces in which there are no parallel lines.
+Such a space is not commonly used outside of pure mathematics as Euclidean space is commonly viewed as more intuitive.
 However, projective spaces are somewhat natural in real life.
 Take for example a set of parallel train tracks.
 As the tracks extend to the horizon, they appear to converge at a point infinitely far away.
 This is the same idea used in projective geometry.
+Likewise, one can imagine that projective geometry can be used to describe many other things due to it giving an explicid definition to infinity in $n$-dimensions.
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
