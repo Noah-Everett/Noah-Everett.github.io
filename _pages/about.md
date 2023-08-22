@@ -34,6 +34,4 @@ I also listen to academic/science podcasts which have become regular companions 
 This website is a platform where I'm excited to share my passions and experiences. 
 It offers a glimpse into the diverse aspects of my life, whether discussing my research endeavors or sharing health/fitness insights.
 I'm looking forward to connecting with like-minded individuals and fostering meaningful conversations.
-
-<!-- <details markdown="1"><summary><b>More about me</b></summary>
-</details> -->
+I would love to hear from you, so please feel free to reach out!
