@@ -32,7 +32,8 @@ Advisor: Brian Mong, SLAC National Accelerator Laboratory
 
 ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu)
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:** 
+**Abstract:**
+
 <br><br>
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
 {: .notice}
@@ -106,8 +107,10 @@ Additionally, we propose several interesting uses of these constructions and the
 # Optical Detector Design
 -----
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-Optical-based detectors are used throughout particle physics and particicularly for rare event searches.
-
+Within the field of particle physics, optical-based detectors find extensive utility in collision experiments, neutrino detection, and dark matter investigations. 
+This preference for optical detectors is driven by the ubiquitous generation of photons in particle physics processes, rendering them a natural fit for particle identification. 
+Furthermore, leveraging our comprehensive understanding of light's behavior and manipulation, derived from our visual reliance on light, holds promise for synergizing optical science with particle physics. 
+The potential amalgamation of optical insights with particle physics could potentially lead to enhanced sensitivity in both present and future experimental pursuits.
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
