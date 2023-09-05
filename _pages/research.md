@@ -10,7 +10,7 @@ redirect_from:
 # Radon Mitiagtion For Rare Event Searches
 -----
 <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
-Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its daughter elements' decays. 
+Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
 While radon is not abundant in many materials, its parent isotopes—radium and thorium—prevail widely due to their significantly longer half-lives.
 When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
 Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done using a radon assay system.
@@ -19,7 +19,8 @@ This data informs the choice of materials and components, mitigating radon-incud
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Radon Assay for [nEXO](https://nexo.llnl.gov)
+### Improving Radon Assay Data Analysis With Complete Decay History Fitting 
+<!-- for [nEXO](https://nexo.llnl.gov) -->
 <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energy. 
@@ -30,9 +31,11 @@ This new fitting method makes use of the full history of the assay run, which si
 Advisor: Brian Mong, SLAC National Accelerator Laboratory
 {: .notice}
 
-### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu)
+### Environmental Monitoring System for Cleanrooms
+<!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
+The South Dakota Mines radon group is responsible for the radon assay of materials for LZ and SuperCDMS along with developing a world leading radon mitigation system.
 
 <br><br>
 Advisor: Richard Schnee, South Dakota Mines, Physics Department

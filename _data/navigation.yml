@@ -24,8 +24,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Fitness"
-    url: /fitness/
+  # - title: "Fitness"
+  #   url: /fitness/
   
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
