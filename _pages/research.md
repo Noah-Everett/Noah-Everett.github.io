@@ -36,7 +36,6 @@ Advisor: Brian Mong, SLAC National Accelerator Laboratory
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The South Dakota Mines radon group is responsible for the radon assay of materials for LZ and SuperCDMS along with developing a world leading radon mitigation system.
-
 <br><br>
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
 {: .notice}
