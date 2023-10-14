@@ -140,9 +140,16 @@ This work is meant as a non-small angle generalization of standard ray tracing f
 
 </details>
 
-# Theoretical Particle Physics Projects
+# Beyond The Standard Model Theory
 -----
 <img src="/images/A'.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+Beyond the Standard Model (BSM) Theory is a term used for theoretical developments needed to explain the deficiencies of the Standard Model, such as the origin of mass, the strong CP problem, neutrino oscillations, matter-antimatter asymmetry, and dark matter. 
+BSM Theory seeks to extend the Standard Model to address these issues, often introducing new particles, interactions, or principles in the process.
+Phenomenology is a crucial aspect of BSM Theory, focusing on the application of theoretical physics to experimental observations. 
+It involves making predictions based on BSM theories and then testing these predictions through experiments. 
+This iterative process between theory and experiment is key to advancing our understanding of the universe.
+
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
