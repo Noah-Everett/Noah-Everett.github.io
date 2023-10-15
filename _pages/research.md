@@ -102,6 +102,8 @@ the extended Euclidean plane, unit (hemi)sphere, and $\mathbb{R}^3$ vector space
 Isomorphisms that map between these descriptions of $\mathbb{R}\mathbb{P}^2$ are not commonly known.
 Thus, we find isomorphisms that map between these three constructions.
 Additionally, we propose several interesting uses of these constructions and their isomorphisms in classical physics and optical detectors commonly used in particle physics.
+<br><br>
+Advisor: Patrick Fleming, South Dakota Mines, Mathematics Department
 {: .notice}
 
 </details>
@@ -148,7 +150,6 @@ BSM Theory seeks to extend the Standard Model to address these issues, often int
 Phenomenology is a crucial aspect of BSM Theory, focusing on the application of theoretical physics to experimental observations. 
 It involves making predictions based on BSM theories and then testing these predictions through experiments. 
 This iterative process between theory and experiment is key to advancing our understanding of the universe.
-
 
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
