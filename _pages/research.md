@@ -130,7 +130,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 {: .notice}
 
 
-### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/11SwfOfN564Hk42vlk0A2u_K2hzgacg0p/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/1IjmxL2j9VtcyEWjWqW67gfNorNig9Fg3/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
