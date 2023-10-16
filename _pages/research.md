@@ -31,11 +31,16 @@ This new fitting method makes use of the full history of the assay run, which si
 Advisor: Brian Mong, SLAC National Accelerator Laboratory
 {: .notice}
 
-### Environmental Monitoring System for Cleanrooms
+### Environmental Monitoring System for Cleanrooms [Repository](https://github.com/Noah-Everett/Cleanroom-Monitoring-System){: .btn .btn--info .btn--small}{: .align-right}
 <!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
 <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
-The South Dakota Mines radon group is responsible for the radon assay of materials for LZ and SuperCDMS along with developing a world leading radon mitigation system.
+The Radon Group at South Dakota Mines is actively engaged in radon assay services for LZ and SuperCDMS, all while pioneering a cutting-edge radon mitigation system.
+As part of this endeavor, they have introduced the groundbreaking ultra-low-radon cleanroom.
+In support of this initiative, I designed an environmental monitoring system tailored for the ultra-low-radon cleanroom. 
+This system is responsible for tracking parameters such as temperature, humidity, volatile organic compounds, and dust levels. 
+To bring this project to life, I employed a Raspberry Pi and an array of four sensors. 
+I not only wrote the monitoring code but also assembled the system, successfully installing it within the cleanroom where it has been in continuous operation since.
 <br><br>
 Advisor: Richard Schnee, South Dakota Mines, Physics Department
 {: .notice}
@@ -119,7 +124,7 @@ The potential amalgamation of optical insights with particle physics could poten
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field
+### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field [Repository](https://github.com/Noah-Everett/G4-DSPD-Detector-Sim){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 We propose a novel method for fine grained ($\sim1$ cm) topological reconstruction in homogeneous, unsegmented scintillation detectors without the use of large electric fields used to drift charged particles such as those in NEXT, MicroBooNE, DUNE, etc.
@@ -131,7 +136,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/1IjmxL2j9VtcyEWjWqW67gfNorNig9Fg3/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left> [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications. 
 The paraxial (small angle) approximation is widely used and is easily accessible both online and through introductory optics textbooks owing to it providing an elegant ray propagation method in the form of matrices. 
