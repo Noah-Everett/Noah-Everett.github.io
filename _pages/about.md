@@ -18,7 +18,7 @@ Hello!
 
 I'm Noah Everett, an undergraduate student and researcher at South Dakota Mines.
 I'm majoring in physics and mathematics with minors in computer science and computational statistics.
-Throughout my academic journey, I have conducted research in experimental and theoretical particle physics and optical physics, and pure mathematics, and machine learning at South Dakota Mines, SLAC National Laboratory, and Fermi National Laboratory (Fermilab).
+Throughout my academic journey, I have conducted research in experimental and theoretical particle physics and optical physics, and pure mathematics, and machine learning at South Dakota Mines, SLAC National Accelerator Laboratory, and Fermi National Accelerator Laboratory (Fermilab).
 I have been fortunate to work with truly amazing people and either directly or indirectly with experiments such as ANNIE, LUX-ZEPLIN, nEXO, SciBooNE, and SuperCDMS.
 
 Beyond my academic pursuits, I find great fulfillment in fostering a thriving community on campus. 
