@@ -130,7 +130,7 @@ The potential amalgamation of optical insights with particle physics could poten
 We propose a novel method for fine grained ($\sim1$ cm) topological reconstruction in homogeneous, unsegmented scintillation detectors without the use of large electric fields used to drift charged particles such as those in NEXT, MicroBooNE, DUNE, etc.
 This is made possible using a combination of traditional photosensors combined with a lens system which converts the direction of the incident photon into a physical position measurable by a photosensor.
 We call this system a Direction Sensitive PhotoDetector (DSPD).
-To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric materail, thus allowing for complete energy reconstruction.
+To increase the angular sensitivity of each DSPD, we limit their field of view using a callorimetetric material, thus allowing for complete energy reconstruction.
 We present a proof of concept for this detector by simulating a XLZD-sized detector ($\sim40$ tonnes) with Geant4.
 {: .notice}
 
