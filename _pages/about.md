@@ -24,7 +24,7 @@ I have been fortunate to work with truly amazing people and either directly or i
 Beyond my academic pursuits, I find great fulfillment in fostering a thriving community on campus. 
 I founded the Health and Fitness Club to create a supportive environment for students interested in weightlifting, running, biking, nutrition, mental health, and overall well-being. 
 Together, we share knowledge, support one another, and stay motivated on our personal health journeys through regular group activities and informative presentations.
-In addition to my role in the Health and Fitness Club, I'm honored to serve as an associate councilor for the Society of Physics Students (SPS) in zone 11, representing states including Minnesota, South Dakota, North Dakota, Iowa, and Nebraska. 
+In addition to my role in the Health and Fitness Club, I'm honored to serve as an associate councilor for the Society of Physics Students (SPS) in Zone 11, representing states including Minnesota, South Dakota, North Dakota, Iowa, and Nebraska. 
 Engaging with the SPS community has been a rewarding experience, allowing me to contribute to physics education and outreach initiatives.
 
 Beyond academics and leadership, I find artificial intelligence (AI), particularly generative AI and Large Language Models (LLMs), deeply fascinating. 
