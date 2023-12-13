@@ -124,7 +124,7 @@ The potential amalgamation of optical insights with particle physics could poten
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field [Repository](https://github.com/Noah-Everett/G4-DSPD-Detector-Sim){: .btn .btn--info .btn--small}{: .align-right}
+### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field [Repository](https://github.com/Noah-Everett/G4-DSPD-Detector-Sim){: .btn .btn--info .btn--small}{: .align-right} [Slides](https://drive.google.com/file/d/1xAKrr3Qdeu-uTY7HzT8aTz_b8iEXgv74/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 We propose a novel method for fine grained ($\sim1$ cm) topological reconstruction in homogeneous, unsegmented scintillation detectors without the use of large electric fields used to drift charged particles such as those in NEXT, MicroBooNE, DUNE, etc.
