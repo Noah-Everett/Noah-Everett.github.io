@@ -99,7 +99,7 @@ This abstraction not only offers insight into the real world but also provides a
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Preprint](https://drive.google.com/file/d/1oxYD-LVdW9QeLfwjqZRPmW1yepO9Tgau/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Preprint](https://drive.google.com/file/d/1zkr-_QPPm7CJrNvCxLCLf__XHIpXHjCM/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
