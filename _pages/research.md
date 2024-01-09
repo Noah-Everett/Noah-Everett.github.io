@@ -135,7 +135,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 {: .notice}
 
 
-### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/1IjmxL2j9VtcyEWjWqW67gfNorNig9Fg3/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
+### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/1VcuHcdQxvjrKiPwbT5bvbOWAIVmr8_Zc/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
 
 <img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left> 
 **Abstract:**
