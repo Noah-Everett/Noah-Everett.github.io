@@ -99,7 +99,7 @@ This abstraction not only offers insight into the real world but also provides a
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
-### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Preprint](https://drive.google.com/file/d/17sCC9aUgdDlHJjW1BXgYUsx0JRx2WBY8/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
+### Isomorphisms for Real Projective Plane Constructions [Colloquia Talk](https://drive.google.com/file/d/1mbCr02dh0jQaNMz0tAHfIq6IUzCV5Bcz/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Preprint](https://arxiv.org/pdf/2403.01049.pdf){: .btn .btn--info .btn--small}{: .align-right}
 <img src="/images/plots2_constructs2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 The real projective plane ($\mathbb{R}\mathbb{P}^2$) has three well known isomorphic constructions:
@@ -135,7 +135,7 @@ We present a proof of concept for this detector by simulating a XLZD-sized detec
 {: .notice}
 
 
-### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://drive.google.com/file/d/1VcuHcdQxvjrKiPwbT5bvbOWAIVmr8_Zc/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right} [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
+### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://inspirehep.net/files/2b5cca16499156c122d1ac1970bfcded){: .btn .btn--info .btn--small}{: .align-right} [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
 
 <img src="/images/fig.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left> 
 **Abstract:**
