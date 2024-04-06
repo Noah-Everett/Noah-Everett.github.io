@@ -7,46 +7,56 @@ redirect_from:
   - /reserch
 ---
 
-# Radon Mitiagtion For Rare Event Searches
------
-<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
-While radon is not abundant in many materials, its parent isotopes (radium and thorium) prevail widely due to their significantly longer half-lives.
-When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
-Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done in part using a radon assay system.
-The data collected from radon assay systems informs the choice of materials and components, but also allows us to make a good estimate of background rates in the detector which is later used to inform physics analyses.
-
-<details markdown="1"><summary><b>Projects</b></summary>
-{: .notice}
-
-### Improving Radon Assay Data Analysis With Complete Decay History Fitting 
-<!-- for [nEXO](https://nexo.llnl.gov) -->
-<img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energies. 
-Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
-The focus of my work was to develop a new analysis method for the radon assay system at SLAC.
-This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
-To achieve this, I developed a Monte Carlo simulation of the radon assay system to test the new fitting method.
-<br><br>
-Advisor: Brian Mong, SLAC National Accelerator Laboratory
-{: .notice}
-
-### Environmental Monitoring System for Cleanrooms [Repository](https://github.com/Noah-Everett/Cleanroom-Monitoring-System){: .btn .btn--info .btn--small}{: .align-right}
-<!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
-<img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-**Abstract:**
-The Radon Group at South Dakota Mines is actively engaged in radon assay services for LZ and SuperCDMS, all while pioneering a cutting-edge radon mitigation system.
-As part of this endeavor, the group has developed an ultra-low-radon cleanroom.
-In support of this initiative, I designed an environmental monitoring system tailored for the ultra-low-radon cleanroom. 
-This system is responsible for tracking parameters such as temperature, humidity, volatile organic compounds, and dust levels inside the cleanroom.
-The system uses a Raspberry Pi and an array of four sensors to monitor these parameters.
-This project allowed me to write all the system code, assemble the system, and install it within the cleanroom where it has been in continuous operation since.
-<br><br>
-Advisor: Richard Schnee, South Dakota Mines, Physics Department
-{: .notice}
-
-</details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ### --> # Radon Mitiagtion For Rare Event Searches
+<!-- ### --> -----
+<!-- ### --> <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<!-- ### --> Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
+<!-- ### --> While radon is not abundant in many materials, its parent isotopes (radium and thorium) prevail widely due to their significantly longer half-lives.
+<!-- ### --> When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
+<!-- ### --> Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done in part using a radon assay system.
+<!-- ### --> The data collected from radon assay systems informs the choice of materials and components, but also allows us to make a good estimate of background rates in the detector which is later used to inform physics analyses.
+<!-- ### --> 
+<!-- ### --> <details markdown="1"><summary><b>Projects</b></summary>
+<!-- ### --> {: .notice}
+<!-- ### --> 
+<!-- ####################################################################### -->
+<!-- ### --> 
+<!-- ### --> ### Improving Radon Assay Data Analysis With Complete Decay History Fitting 
+<!-- ### --> <!-- for [nEXO](https://nexo.llnl.gov) -->
+<!-- ### --> <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<!-- ### --> **Abstract:**
+<!-- ### --> The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energies. 
+<!-- ### --> Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
+<!-- ### --> The focus of my work was to develop a new analysis method for the radon assay system at SLAC.
+<!-- ### --> This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
+<!-- ### --> To achieve this, I developed a Monte Carlo simulation of the radon assay system to test the new fitting method.
+<!-- ### --> <br><br>
+<!-- ### --> Advisor: Brian Mong, SLAC National Accelerator Laboratory
+<!-- ### --> {: .notice}
+<!-- ### --> 
+<!-- ####################################################################### -->
+<!-- ### --> 
+<!-- ### --> ### Environmental Monitoring System for Cleanrooms [Repository](https://github.com/Noah-Everett/Cleanroom-Monitoring-System){: .btn .btn--info .btn--small}{: .align-right}
+<!-- ### --> <!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
+<!-- ### --> <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<!-- ### --> **Abstract:**
+<!-- ### --> The Radon Group at South Dakota Mines is actively engaged in radon assay services for LZ and SuperCDMS, all while pioneering a cutting-edge radon mitigation system.
+<!-- ### --> As part of this endeavor, the group has developed an ultra-low-radon cleanroom.
+<!-- ### --> In support of this initiative, I designed an environmental monitoring system tailored for the ultra-low-radon cleanroom. 
+<!-- ### --> This system is responsible for tracking parameters such as temperature, humidity, volatile organic compounds, and dust levels inside the cleanroom.
+<!-- ### --> The system uses a Raspberry Pi and an array of four sensors to monitor these parameters.
+<!-- ### --> This project allowed me to write all the system code, assemble the system, and install it within the cleanroom where it has been in continuous operation since.
+<!-- ### --> <br><br>
+<!-- ### --> Advisor: Richard Schnee, South Dakota Mines, Physics Department
+<!-- ### --> {: .notice}
+<!-- ### --> 
+<!-- ### --> </details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 
 # Accelerator Neutrino Neutron Interaction Experiment ([ANNIE](https://annie.fnal.gov))
 -----
