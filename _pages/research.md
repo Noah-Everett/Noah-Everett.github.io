@@ -10,54 +10,53 @@ redirect_from:
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
-<!-- ### --> # Radon Mitiagtion For Rare Event Searches
-<!-- ### --> -----
-<!-- ### --> <img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-<!-- ### --> Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
-<!-- ### --> While radon is not abundant in many materials, its parent isotopes (radium and thorium) prevail widely due to their significantly longer half-lives.
-<!-- ### --> When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
-<!-- ### --> Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done in part using a radon assay system.
-<!-- ### --> The data collected from radon assay systems informs the choice of materials and components, but also allows us to make a good estimate of background rates in the detector which is later used to inform physics analyses.
-<!-- ### --> 
-<!-- ### --> <details markdown="1"><summary><b>Projects</b></summary>
-<!-- ### --> {: .notice}
-<!-- ### --> 
-<!-- ####################################################################### -->
-<!-- ### --> 
-<!-- ### --> ### Improving Radon Assay Data Analysis With Complete Decay History Fitting 
-<!-- ### --> <!-- for [nEXO](https://nexo.llnl.gov) -->
-<!-- ### --> <img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-<!-- ### --> **Abstract:**
-<!-- ### --> The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energies. 
-<!-- ### --> Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
-<!-- ### --> The focus of my work was to develop a new analysis method for the radon assay system at SLAC.
-<!-- ### --> This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
-<!-- ### --> To achieve this, I developed a Monte Carlo simulation of the radon assay system to test the new fitting method.
-<!-- ### --> <br><br>
-<!-- ### --> Advisor: Brian Mong, SLAC National Accelerator Laboratory
-<!-- ### --> {: .notice}
-<!-- ### --> 
-<!-- ####################################################################### -->
-<!-- ### --> 
-<!-- ### --> ### Environmental Monitoring System for Cleanrooms [Repository](https://github.com/Noah-Everett/Cleanroom-Monitoring-System){: .btn .btn--info .btn--small}{: .align-right}
-<!-- ### --> <!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
-<!-- ### --> <img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-<!-- ### --> **Abstract:**
-<!-- ### --> The Radon Group at South Dakota Mines is actively engaged in radon assay services for LZ and SuperCDMS, all while pioneering a cutting-edge radon mitigation system.
-<!-- ### --> As part of this endeavor, the group has developed an ultra-low-radon cleanroom.
-<!-- ### --> In support of this initiative, I designed an environmental monitoring system tailored for the ultra-low-radon cleanroom. 
-<!-- ### --> This system is responsible for tracking parameters such as temperature, humidity, volatile organic compounds, and dust levels inside the cleanroom.
-<!-- ### --> The system uses a Raspberry Pi and an array of four sensors to monitor these parameters.
-<!-- ### --> This project allowed me to write all the system code, assemble the system, and install it within the cleanroom where it has been in continuous operation since.
-<!-- ### --> <br><br>
-<!-- ### --> Advisor: Richard Schnee, South Dakota Mines, Physics Department
-<!-- ### --> {: .notice}
-<!-- ### --> 
-<!-- ### --> </details>
+# Radon Mitiagtion For Rare Event Searches
+-----
+<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
+While radon is not abundant in many materials, its parent isotopes (radium and thorium) prevail widely due to their significantly longer half-lives.
+When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
+Minimizing radon-induced backgrounds necessitates selecting ultra-clean materials which is done in part using a radon assay system.
+The data collected from radon assay systems informs the choice of materials and components, but also allows us to make a good estimate of background rates in the detector which is later used to inform physics analyses.
+<details markdown="1"><summary><b>Projects</b></summary>
+{: .notice}
+
+### Improving Radon Assay Data Analysis With Complete Decay History Fitting 
+<!-- for [nEXO](https://nexo.llnl.gov) -->
+<img src="/images/radonEmanationSystem.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+The radon assay system at SLAC employs an electrostatic chamber (ESC) which is biased to drift charged ions to a silicon diode where subsequent alpha decays in the chain are measured and identified by their energies. 
+Analysis software is used to convert the measured alpha decay rates and energies to initial populations of atoms supporting the emanation of radon.
+The focus of my work was to develop a new analysis method for the radon assay system at SLAC.
+This new fitting method makes use of the full history of the assay run, which significantly reduces the required assay time, allowing SLAC to assay nEXO’s components faster leading to a reduction in nEXO’s development and assembly time.
+To achieve this, I developed a Monte Carlo simulation of the radon assay system to test the new fitting method.
+<br><br>
+Advisor: Brian Mong, SLAC National Accelerator Laboratory
+{: .notice}
+
+### Environmental Monitoring System for Cleanrooms [Repository](https://github.com/Noah-Everett/Cleanroom-Monitoring-System){: .btn .btn--info .btn--small}{: .align-right}
+<!-- ### Radon Assay for [LZ](https://lz.lbl.gov) and [SuperCDMS](https://supercdms.slac.stanford.edu) -->
+<img src="/images/Cleanroom Environmental Monitoring System.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+**Abstract:**
+The Radon Group at South Dakota Mines is actively engaged in radon assay services for LZ and SuperCDMS, all while pioneering a cutting-edge radon mitigation system.
+As part of this endeavor, the group has developed an ultra-low-radon cleanroom.
+In support of this initiative, I designed an environmental monitoring system tailored for the ultra-low-radon cleanroom. 
+This system is responsible for tracking parameters such as temperature, humidity, volatile organic compounds, and dust levels inside the cleanroom.
+The system uses a Raspberry Pi and an array of four sensors to monitor these parameters.
+This project allowed me to write all the system code, assemble the system, and install it within the cleanroom where it has been in continuous operation since.
+<br><br>
+Advisor: Richard Schnee, South Dakota Mines, Physics Department
+{: .notice}
+</details>
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
 
+
+
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 # Accelerator Neutrino Neutron Interaction Experiment ([ANNIE](https://annie.fnal.gov))
 -----
 <img src="/images/ANNIE_P2.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -65,7 +64,6 @@ ANNIE is a 26-ton gadolinium-doped water Cherenkov detector on the Booster Neutr
 The primary physics goal of ANNIE is to make precision measurements of the number of final state neutrons from neutrino interactions in water to improve the systematic uncertainties of next-generation long-baseline neutrino experiments. 
 In addition, ANNIE is also doing detector R&D on new Large Area Picosecond PhotoDetectors (LAPPDs) and Water-based Liquid Scintillator (WbLS) detector medium.
 The ANNIE collaboration consists of more than 40 collaborators from 19 institutions and 2 national labs in 5 countries.
-
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
@@ -93,9 +91,16 @@ To this end, I am performing a simulation-based feasibility study to determine t
 <br><br>
 Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 {: .notice}
-
 </details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 
+
+
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 # Isomorphisms For Projective Plane/Space Constructions
 -----
 <img src="/images/IRL-PP-Example copy.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -104,7 +109,6 @@ While less utilized beyond pure mathematics due to the dominance of Euclidean sp
 Consider parallel train tracks that seemingly converge at an infinitely distant point on the horizon. 
 This optical illusion mirrors projective geometry's essence—a convergence of elements towards a distant, conceptual infinity. 
 This abstraction not only offers insight into the real world but also provides a geometric meaning to infinity.
-
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
@@ -119,9 +123,16 @@ Additionally, we propose several interesting uses of these constructions and the
 <br><br>
 Advisor: Patrick Fleming, South Dakota Mines, Mathematics Department
 {: .notice}
-
 </details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 
+
+
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 # Optical Detector Design
 -----
 <img src="/images/exampleLens-7.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -129,7 +140,6 @@ Within the field of particle physics, optical-based detectors find extensive uti
 This preference for optical detectors is driven by the ubiquitous generation of photons in particle physics processes, rendering them a natural fit for particle identification. 
 Furthermore, leveraging our comprehensive understanding of light's behavior and manipulation, derived from our visual reliance on light, holds promise for synergizing optical science with particle physics. 
 The potential amalgamation of furthera optical insights with particle physics could potentially lead to enhanced sensitivity in both present and future experimental pursuits.
-
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
@@ -146,7 +156,6 @@ I have also developed several reconstruction algorithms to give a preliminary es
 {: .notice}
 
 ### Analytical Meridional, Non-Paraxial Ray Tracing [Preprint](https://inspirehep.net/files/2b5cca16499156c122d1ac1970bfcded){: .btn .btn--info .btn--small}{: .align-right} [Repository](https://github.com/Noah-Everett/Analytical-Meridional-Non-Paraxial-Ray-Propagation){: .btn .btn--info .btn--small}{: .align-right}
-
 <img src="/images/fig.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left> 
 **Abstract:**
 The study of light propagation in optical systems is crucial for various scientific and technological applications.
@@ -156,9 +165,16 @@ To this end, I present an analytical method for non-paraxial, meridional ray tra
 i.e. the most general ray tracing method for a meridional (2-dimensional) system comprised of elliptical, circular, and linear surfaces. 
 This work is meant as a non-small angle generalization of standard ray tracing for geometric optics.
 {: .notice}
-
 </details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 
+
+
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
 # Beyond The Standard Model Theory
 -----
 <img src="/images/A'.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -167,7 +183,6 @@ BSM Theory seeks to extend the Standard Model to address these issues, often int
 Phenomenology is a crucial aspect of BSM Theory, focusing on the application of theoretical physics to experimental observations. 
 It involves making predictions based on BSM theories and then testing these predictions through experiments. 
 This iterative process between theory and experiment is key to advancing our understanding of the universe.
-
 <details markdown="1"><summary><b>Projects</b></summary>
 {: .notice}
 
@@ -184,5 +199,7 @@ While SciBooNE may not be useful for probing this specific model for beyond the 
 <br><br>
 Advisor: Patrick Fox, Fermi National Accelerator Laboratory, Theoretical Physics Department
 {: .notice}
-
 </details>
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
+<!-- ####################################################################### -->
