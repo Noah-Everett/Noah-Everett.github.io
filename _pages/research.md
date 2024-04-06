@@ -9,7 +9,7 @@ redirect_from:
 
 # Radon Mitiagtion For Rare Event Searches
 -----
-<img src="/images/decayChains_2.pdf" style="max-height: 250px; max-width: 900px; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/decayChains_2.pdf" style="max-height: 50%; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align="left">
 Radon stands as a predominant source of background signals in particle physics experiments like LUX-ZEPLIN, XENONnT, SuperCDMS, and nEXO due to the diverse particles and energies yielded by its progeny.
 While radon is not abundant in many materials, its parent isotopes—radium and thorium—prevail widely due to their significantly longer half-lives.
 When radium decays, the daughter radon atom can emanate out of materials and reach the detector. 
