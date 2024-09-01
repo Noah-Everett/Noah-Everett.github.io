@@ -106,6 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0003-1973-5368"
   pinterest        :
   soundcloud       :
+  docker           : noaheverett
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  docker           : noaheverett
 
 
 # Reading Files
