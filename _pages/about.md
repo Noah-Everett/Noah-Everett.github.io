@@ -17,15 +17,15 @@ redirect_from:
 
 Hello!
 
-I'm Noah Everett, an undergraduate student and researcher at South Dakota Mines.
-I'm majoring in physics and mathematics with minors in computer science and computational statistics.
+I'm Noah Everett, a first year physics PhD student at Harvard.
+I did my undergraduate South Dakota Mines where I majored in physics and mathematics with minors in computer science and computational statistics.
 Throughout my academic journey, I have conducted research in experimental and theoretical particle physics and optical physics, and pure mathematics, and machine learning at South Dakota Mines, SLAC National Accelerator Laboratory, and Fermi National Accelerator Laboratory (Fermilab).
 I have been fortunate to work with truly amazing people and either directly or indirectly with experiments such as ANNIE, LUX-ZEPLIN, nEXO, SciBooNE, and SuperCDMS.
 
 Beyond my academic pursuits, I find great fulfillment in fostering a thriving community on campus. 
 I founded the Health and Fitness Club to create a supportive environment for students interested in weightlifting, running, biking, nutrition, mental health, and overall well-being. 
 Together, we share knowledge, support one another, and stay motivated on our personal health journeys through regular group activities and informative presentations.
-In addition to my role in the Health and Fitness Club, I'm honored to serve as an associate councilor for the Society of Physics Students (SPS) in Zone 11, representing states including Minnesota, South Dakota, North Dakota, Iowa, and Nebraska. 
+In addition to my role in the Health and Fitness Club, I'm honored to have served as an associate councilor for the Society of Physics Students (SPS) in Zone 11, representing states including Minnesota, South Dakota, North Dakota, Iowa, and Nebraska. 
 Engaging with the SPS community has been a rewarding experience, allowing me to contribute to physics education and outreach initiatives.
 
 Beyond academics and leadership, I find artificial intelligence (AI), particularly generative AI and Large Language Models (LLMs), deeply fascinating. 
