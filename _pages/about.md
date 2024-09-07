@@ -18,7 +18,7 @@ redirect_from:
 Hello!
 
 I'm Noah Everett, a first year physics PhD student at Harvard.
-I did my undergraduate South Dakota Mines where I majored in physics and mathematics with minors in computer science and computational statistics.
+I did my undergraduate studies at South Dakota Mines where I majored in physics and mathematics with minors in computer science and computational statistics.
 Throughout my academic journey, I have conducted research in experimental and theoretical particle physics and optical physics, and pure mathematics, and machine learning at South Dakota Mines, SLAC National Accelerator Laboratory, and Fermi National Accelerator Laboratory (Fermilab).
 I have been fortunate to work with truly amazing people and either directly or indirectly with experiments such as ANNIE, LUX-ZEPLIN, nEXO, SciBooNE, and SuperCDMS.
 
