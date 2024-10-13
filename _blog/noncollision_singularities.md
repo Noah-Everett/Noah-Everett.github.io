@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 # $N$-Body Noncollision Singularities For Particle Physics
+
+Originally written: Oct 12, 2024
 -----
 <img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 

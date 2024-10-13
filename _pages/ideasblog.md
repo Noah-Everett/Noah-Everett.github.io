@@ -24,4 +24,6 @@ I would love to hear your thoughts and suggestions on any of these ideas!
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
 
-# [$N$-Body Noncollision Singularities For Particle Physics](/ideasblog/noncollision_singularities/)
+# Ideas
+
+## [$N$-Body Noncollision Singularities For Particle Physics](/ideasblog/noncollision_singularities/)
