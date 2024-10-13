@@ -37,6 +37,7 @@ This basic conservation principle presents a fundamental obstacle to realizing n
 
 ### 2. Quantum Uncertainty and Mechanics
 
+<img src="/images/qmNoncollision.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 At very small distances, **quantum mechanics** introduces further challenges. 
 The **Heisenberg Uncertainty Principle** prevents precise knowledge of both the position and momentum of particles at the same time. 
 As particles approach very small separations, reducing their positional uncertainty increases their momentum uncertainty, introducing unpredictability into their paths. 
