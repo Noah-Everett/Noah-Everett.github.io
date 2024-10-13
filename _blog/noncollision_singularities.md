@@ -7,9 +7,9 @@ redirect_from:
   - /noncollisionsingularities/
 ---
 
-<img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/noncollision2.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 <h1>$N$-Body Noncollision Singularities For Particle Physics</h1>
-<p style="margin: 0;">Originally written: Oct 12, 2024 by Noah Everett</p>
+<p style="margin: 0;">Originally written: Oct 12, 2024 by Noah Everett as part of the IdeasBlog</p>
 
 ## Introduction To Noncollision Singularities
 
@@ -19,6 +19,7 @@ A more fascinating aspect of the $N$-Body problem arises in systems where N \geq
 
 ## Implications For Particle Physics
 
+<img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 The potential crossover of these noncollision singularities into particle physics presents exciting theoretical possibilities. Particle accelerators, such as the Large Hadron Collider (LHC), currently rely on accelerating particles to high velocities and causing them to collide, facilitating the discovery of fundamental particles. If noncollision singularities could be leveraged, they might lead to the development of accelerators that can surpass existing technologies. The key idea would be the ability to manipulate particle trajectories to extreme distances (or velocities) without physical collisions, perhaps uncovering novel phenomena.
 
 Additionally, these singularities might serve as tools to probe small-scale forces. In particle physics, forces operate at vastly different ranges and strengths—gravity, electromagnetism, the strong nuclear force, and the weak nuclear force all play roles. At extremely small distances, quantum mechanical effects become significant, and classical descriptions like the gravitational N-Body problem are no longer valid. However, noncollision singularities might provide a way to indirectly study interactions at small scales, offering insights into force behaviors that might not be easily accessible otherwise.
