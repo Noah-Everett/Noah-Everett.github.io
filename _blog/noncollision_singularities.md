@@ -20,7 +20,7 @@ In the classic version, the particles are point masses, and the only force actin
 As a result, it is possible to have singularities where the distance between two particles goes to zero ($r \to 0$) and the force becomes infinite ($F_g \to \infty$), which are called collision singularities. 
 Poincaré conjectured that the $n$-body problem could also have noncollision singularities when $n \geq 4$. 
 These singularities occur when the particles do not collide, but one or more escape to infinity in a finite amount of time. 
-Jeff Xia partially proved this in 1988 for a system of five bodies Xia, 1992, and Xue found a similar scenario for four bodies in 2014 Xue, 2014.
+Jeff Xia partially proved this in 1988 for a system of five bodies [[Xia, 1992](https://www.jstor.org/stable/2946572?origin=crossref)], and Xue found a similar scenario for four bodies in 2014 [[Xue, 2014](https://arxiv.org/abs/1409.0048)].
 
 ## Implications For Particle Physics
 
