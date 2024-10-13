@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /ideasblog/
 author_profile: true
 redirect_from:
-  - /reserch
+  - /IdeasBlog/
+  - /ideasBlog/
+  - /ideablog/
 ---
 
 <!-- ####################################################################### -->
