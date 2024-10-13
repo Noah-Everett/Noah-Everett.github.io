@@ -13,11 +13,7 @@ redirect_from:
 
 ## Introduction To Noncollision Singularities
 
-<p style="margin: 0;">
-In mathematics, the $n$-body problem is the problem of predicting the individual motions of a group of particles under the influence of Newtonian gravity. In the classic version, the particles are point masses and the only force acting on them is gravity, which scales as the inverse square of the distance between the particles ($F_g \propto 1/r^2$). As a result, it is possible to have singularities where the distance between two particles goes to zero ($r \to 0$) and the force becomes infinite ($F_g \to \infty$), which are called collision singularities.
-</p><p style="text-indent: 20px; margin: 0;">
-Poincaré conjectured that the $n$-body problem could also have **noncollision singularities** when $n \geq 4$. These singularities occur when the particles do not collide but one or more escape to infinity in a finite amount of time. Jeff Xia partially proved this in 1988 for a system of five bodies [<a href="https://www.jstor.org/stable/2946572?origin=crossref)">Xia, 1992</a>], and Xue found a similar scenario for four bodies in 2014 [<a href="https://arxiv.org/abs/1409.0048">Xue, 2014</a>].
-</p>
+In mathematics, the $n$-body problem is the problem of predicting the individual motions of a group of particles under the influence of Newtonian gravity. In the classic version, the particles are point masses, and the only force acting on them is gravity, which scales as the inverse square of the distance between the particles ($F_g \propto 1/r^2$). As a result, it is possible to have singularities where the distance between two particles goes to zero ($r \to 0$) and the force becomes infinite ($F_g \to \infty$), which are called collision singularities. Poincaré conjectured that the $n$-body problem could also have noncollision singularities when $n \geq 4$. These singularities occur when the particles do not collide, but one or more escape to infinity in a finite amount of time. Jeff Xia partially proved this in 1988 for a system of five bodies Xia, 1992, and Xue found a similar scenario for four bodies in 2014 Xue, 2014.
 
 ## Implications For Particle Physics
 
