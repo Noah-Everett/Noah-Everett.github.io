@@ -14,9 +14,9 @@ redirect_from:
 
 ## Introduction To Noncollision Singularities
 
-The $N$-Body problem in mathematics addresses the challenge of predicting the motions of several particles under mutual gravitational interaction. In its classical form, it involves point masses influenced only by Newtonian gravity, where the force between two bodies follows an inverse square law, F_g \propto \frac{1}{r^2}. This leads to collision singularities, where bodies can theoretically reach a point where their distance becomes zero, resulting in an infinite force.
+The $N$-Body problem in mathematics addresses the challenge of predicting the motions of several particles under mutual gravitational interaction. In its classical form, it involves point masses influenced only by Newtonian gravity, where the force between two bodies follows an inverse square law, $F_g \propto \frac{1}{r^2}$. This leads to collision singularities, where bodies can theoretically reach a point where their distance becomes zero, resulting in an infinite force.
 
-A more fascinating aspect of the $N$-Body problem arises in systems where N \geq 4. Poincaré suggested the possibility of noncollision singularities—situations where, although the bodies do not physically collide, one or more of them can exhibit extreme behavior, such as moving off to infinity in finite time. This was partially confirmed by Jeff Xia in 1988, who demonstrated a scenario where five bodies exhibit such behavior [[Xia, 1992](https://www.jstor.org/stable/2946572?origin=crossref)]. Subsequent work by Xue extended this finding to a four-body case [[Xue, 2014](https://arxiv.org/abs/1409.0048)].
+A more fascinating aspect of the $N$-Body problem arises in systems where $N \geq 4$. Poincaré suggested the possibility of noncollision singularities—situations where, although the bodies do not physically collide, one or more of them can exhibit extreme behavior, such as moving off to infinity in finite time. This was partially confirmed by Jeff Xia in 1988, who demonstrated a scenario where five bodies exhibit such behavior [[Xia, 1992](https://www.jstor.org/stable/2946572?origin=crossref)]. Subsequent work by Xue extended this finding to a four-body case [[Xue, 2014](https://arxiv.org/abs/1409.0048)].
 
 ## Implications For Particle Physics
 
