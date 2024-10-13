@@ -32,6 +32,7 @@ In Newtonian gravity, the gravitational force between two bodies scales as $1/r^
 Thus, in the $n$-body problem, it is possible to have singularities where the distance between two bodies goes to zero.
 These are called collision singularities.
 It was conjectured by Poincaré that the $n$-body problem can have noncollision singularities when $n \geq 4$ (that is when there are at least 4 bodies in the system).
-This conjecture was proven in 1988 by Jeff Xia [[Xia, 1992]](https://www.jstor.org/stable/2946572?origin=crossref)
-
+This conjecture was (partiall) proven in 1988 by Jeff Xia [[Xia, 1992](https://www.jstor.org/stable/2946572?origin=crossref)].
+Xia found a scinario with $n=5$ where the bodies do not collide but one of the bodies goes to infinity in finite time.
+Later Xue found a case for $n=4$ [[Xue, 2014](https://arxiv.org/abs/1409.0048)].
 Image source: OpenAI DALL-E
