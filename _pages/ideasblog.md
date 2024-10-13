@@ -29,7 +29,8 @@ I would love to hear your thoughts and suggestions on any of these ideas!
 <img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 <p style="margin: 0;">
 In mathematics, the $n$-body problem is the problem of predicting the individual motions of a group of particles under the influence of Newtonian grivity.
-In Newtonian gravity, the gravitational force between two bodies scales as $F_g \propto 1/r^2$ where $r$ is the distance between the two bodies.
+In the classic incarnation of the problem, the particles are point masses (usually all the same mass for simplicity) and the only force acting on them is gravity.
+In Newtonian gravity, the gravitational force between two bodies scales as the inverse square of the distance between the two bodies ($F_g \propto 1/r^2$).
 Thus, in the $n$-body problem, it is possible to have singularities where the distance between two bodies goes to zero ($r \to 0$) and the force between them goes to infinity ($F_g \to \infty$).
 These are called collision singularities.
 </p><p style="text-indent: 20px; margin: 0;">
