@@ -20,12 +20,12 @@ main:
 
   - title: "Research"
     url: /research/
-    
-  - title: "CV"
-    url: /files/CV_3_5_24.pdf
   
   - title: "Ideas Blog"
     url: /ideasblog/
+    
+  - title: "CV"
+    url: /files/CV_3_5_24.pdf
 
   # - title: "Fitness"
   #   url: /fitness/
