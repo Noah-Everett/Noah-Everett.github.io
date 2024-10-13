@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /noncollision_singularities/
+permalink: /ideasblog/noncollision_singularities/
 author_profile: true
 redirect_from:
   - /noncollisionsingularities/
