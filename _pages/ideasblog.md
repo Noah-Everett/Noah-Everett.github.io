@@ -36,7 +36,7 @@ These are called collision singularities.
 &nbsp;&nbsp;&nbsp;&nbsp;It was conjectured by Poincaré that the $n$-body problem can have noncollision singularities when $n \geq 4$ (that is when there are at least 4 bodies in the system).
 This conjecture was (partially) proven in 1988 by Jeff Xia [<a href="https://www.jstor.org/stable/2946572?origin=crossref)">Xia, 1992</a>].
 Xia found a scinario with $n=5$ where the bodies do not collide but one of the bodies goes to infinity in finite time.
-Later Xue found a case for $n=4$ [<a href="https://arxiv.org/abs/1409.0048">[Xue, 2014]</a>].
+Later Xue found a case for $n=4$ [<a href="https://arxiv.org/abs/1409.0048">Xue, 2014</a>].
 </p><p style="text-indent: 20px; margin: 0;">
 &nbsp;&nbsp;&nbsp;&nbsp;I would like to explore the implications of these noncollision singularities in the context of particle physics.
 If possible, one can imagine particle accelerators which can exploit these singularities to outperform current particle accelerator technology.
