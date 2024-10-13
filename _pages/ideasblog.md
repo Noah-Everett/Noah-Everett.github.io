@@ -24,9 +24,6 @@ I would love to hear your thoughts and ideas on how to improve these ideas!
 <!-- ####################################################################### -->
 <!-- ####################################################################### -->
 
-
-
-
 # $N$-Body Non-Collision Singularities For Particle Physics
 -----
 <img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
@@ -34,5 +31,3 @@ In mathematics, the $n$-body problem is the problem of predicting the individual
 This is a *very* difficult problem to solve analytically and is often solved numerically.
 
 Image source: OpenAI DALL-E
-<details markdown="1"><summary><b>Projects</b></summary>
-{: .notice}
