@@ -4,7 +4,6 @@ title: ""
 permalink: /noncollision_singularities/
 author_profile: true
 redirect_from:
-  - /noncollision_singularities/
   - /noncollisionsingularities/
 ---
 
