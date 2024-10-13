@@ -9,7 +9,6 @@ redirect_from:
 
 # $N$-Body Noncollision Singularities For Particle Physics
 -----
-
 <img src="/images/nbody.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 
 ## Introduction To Noncollision Singularities
@@ -49,3 +48,5 @@ Finally, even if these theoretical issues were resolved, using noncollision sing
 ## Conclusion
 
 In conclusion, while noncollision singularities offer fascinating theoretical ideas, they face significant challenges when it comes to practical application, especially in particle physics, due to the constraints of quantum mechanics, force interactions, and conservation laws.
+
+Image credit: DALL-E by OpenAI
