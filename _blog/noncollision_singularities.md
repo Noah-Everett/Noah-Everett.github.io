@@ -7,7 +7,7 @@ redirect_from:
   - /noncollisionsingularities/
 ---
 
-<img src="/images/noncollision2.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+![Image 1](/images/noncollision2.jpeg){: style="width: 100%; object-fit: cover;" }
 <h1>$N$-Body Noncollision Singularities For Particle Physics</h1>
 <p style="margin: 0;">Originally written: Oct 12, 2024 by Noah Everett as part of the IdeasBlog</p>
 
@@ -67,4 +67,4 @@ The complexities of managing such a system in practice, along with the unpredict
 
 In conclusion, while noncollision singularities offer fascinating theoretical ideas, they face significant challenges when it comes to practical application, especially in particle physics, due to the constraints of quantum mechanics, force interactions, and conservation laws.
 
-Image credit: DALL-E by OpenAI
+Image credits: DALL-E by OpenAI
