@@ -103,7 +103,7 @@ Advisor: Jingbo Wang, South Dakota Mines, Physics Department
 <!-- ####################################################################### -->
 # Isomorphisms For Projective Plane/Space Constructions
 -----
-<img src="/images/IRL-PP-Example copy.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/IRL-PP-Example.pdf" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 Projective geometry is a non-Euclidean form of geometry in which the parallel postulate does not hold such that parallel lines do not exist.
 While less utilized beyond pure mathematics due to the dominance of Euclidean space's familiarity, projective geometry possesses a subtle resonance with reality.
 Consider parallel train tracks that seemingly converge at an infinitely distant point on the horizon. 

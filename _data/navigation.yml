@@ -28,4 +28,7 @@ main:
     url: /files/NoahEverett_CV.pdf
 
   # - title: "Fitness"
-  #   url: /fi
+  #   url: /fitness/
+  
+  # - title: "Gallery"
+  #   url: /gallery/
