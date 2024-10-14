@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ![Image 1](/images/20220325_205203.jpeg){: style="width: 100%; object-fit: cover;" }
-![Image 1](/images/IMG_3566.png){: style="width: 100%; object-fit: cover;" }
-![Image 1](/images/IMG_1984.png){: style="width: 100%; object-fit: cover;" }
-![Image 2](/images/IMG_4765.png){: style="width: 100%; object-fit: cover;" }
+![Image 1](/images/IMG_3566.jpg){: style="width: 100%; object-fit: cover;" }
+![Image 1](/images/IMG_1984.jpg){: style="width: 100%; object-fit: cover;" }
+![Image 2](/images/IMG_4765.jpg){: style="width: 100%; object-fit: cover;" }
 
 # About Me
 

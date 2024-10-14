@@ -68,7 +68,7 @@ The ANNIE collaboration consists of more than 40 collaborators from 19 instituti
 {: .notice}
 
 ### Likelihood-based Charged Lepton Track Reconstruction for ANNIE [Unpublished Note](https://drive.google.com/file/d/1gJ4Q9nf95HFrh1kvbQ8kRs_wbEg4qGYq/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}[Conference Talk](https://drive.google.com/file/d/1wrQdlk9Nq2UBFrWUvCNwEko1KyvNWf5g/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/Screenshot 2023-07-23 at 12.21.03 AM.png" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/StoppingPower.png" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:** 
 To achieve ANNIE’s ambitious physics goals, while fully accommodating its unique R&D campaign, a new reconstruction method is needed.
 To this end, I am developing a new likelihood-based reconstruction method for charged lepton tracks in ANNIE.
@@ -144,7 +144,7 @@ The potential amalgamation of furthera optical insights with particle physics co
 {: .notice}
 
 ### Using Direction Sensitive Photosenors for Detailed Topological Reconstruction in Unsegmented Scintillation Detectors Without Drift Field [Repository](https://github.com/Noah-Everett/G4-DSPD-Detector-Sim){: .btn .btn--info .btn--small}{: .align-right} [Colloquium Talk](https://drive.google.com/file/d/1w_vbpNVOP2iSmlIQktngJjMJIWB8cnNv/view?usp=sharing){: .btn .btn--info .btn--small}{: .align-right}
-<img src="/images/Screenshot 2023-08-06 at 11.01.07 PM.png" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
+<img src="/images/DSPSdetector.png" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
 **Abstract:**
 Monolithic scintillation detectors are a common choice for particle physics experiments due to their high light yield and scalability.
 However, without the use of electric drift fields these detectors lack the fine-grained topological reconstruction capabilities of segmented detectors.
