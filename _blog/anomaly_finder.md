@@ -7,82 +7,12 @@ redirect_from:
   - /anomalyfinder/
 ---
 
-<h1>Using LLMs to Find Solutions to Unsolved Anomalies</h1>
-<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett (and OpenAI's o1-mini) as part of the Ideas Blog</p>
-
-## Introduction
-
-<img src="/images/anomalous_search.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left>
-Unsolved anomalies in science and mathematics have long been a source of fascination and frustration for researchers. 
-These anomalies represent gaps in our understanding of the natural world, often defying explanation despite numerous attempts. 
-Traditional methods of solving these anomalies involve human intuition, creativity, and rigorous mathematical reasoning.
-However, the rise of large language models (LLMs) in artificial intelligence presents a new opportunity to tackle these challenges.
-
-I propose that there may already exist solutions to unsolved anomalies which have not been linked to the anomalies themselves. 
-These solutions may be buried in the vast amounts of text and data available on the internet, scientific literature, and other sources. 
-By leveraging LLMs we can search for and extract these hidden solutions, potentially shedding light on long-standing mysteries.
-
-## Introduction to LLMs
-
-If you have been living under a rock for the past year or so, you might not have heard of large language models (LLMs).
-These models, such as ChatGPT, BERT, Claude, etc. have revolutionized natural language processing tasks by learning to generate human-like text.
-They are trained on massive amounts of text data and can generate coherent and contextually relevant text responses to a wide range of prompts.
-We call the input to these models a "prompt" and the output a "response".
-An example of this is "What is the capital of France?" to which the model might respond "Paris".
-For us this may look something like "What caused the MiniBooNE anomaly?"; then it is our goal to have the model respond with a coherent and potentially correct answer.
-
-The vast recent increases in the ability of these models is incredible.
-The majority of these models use a transformer architecture [[Vaswani, et al., 2017](https://arxiv.org/abs/1706.03762)], which is a type of neural network that is particularly good at processing sequential data.
-The transformer architecture has been shown to be highly effective at a wide range of natural language processing tasks, including text generation, translation, summarization, and question-answering.
-These models are typically trained on large-scale datasets (roughly speeking the entire internet) to learn the statistical patterns in the data and generate human-like text.
-
-## Overview of Theoretical Approachs
-
-Here, I provide theoretical approaches to using LLMs to find solutions to unsolved anomalies.
-That is, I have not tried any of these and have no idea if they will work. Here is a list of the approaches I can think of:
-- Fine-tuning a pre-trained LLM on a dataset of anomaly-theory pairs directly
-    - Hand make a dataset of anomaly-theory pairs
-    - Use other LLMs to generate fake anomaly-theory pairs
-- Use LLMs to generate a key-word database of anomalies and theories which can be searched through for potential pairings
-
-<!-- The approach involves training an LLM on a diverse corpus of text data, including scientific papers, books, websites, and other sources.
-I hope that pre-existing models/architectures like those from OpenAI, Meta, and Anthropic (among many others) will be capable of this task given the right setup. -->
-
-
-The first way I can think of to approach this is to fine-tune (that is futher train a pre-trained LLM) to search for anomaly-theory pairs.
-To do this, one would need to assemble a dataset of known anomalies and their solutions.
-I think this is the most simple approach to solve this problem, however, it may not be the easiest or most effective.
-Assembling a dataset of known anomalies and their solutions may be difficult, as many anomalies remain unsolved.
-An approach to this would be to use other LLMs to generate/make up anomaly-theory pairs to train the model on.
-This issue with this is that we do not want the model to use this fake data to solve real anomalies.
-
-The second way I can think of to approach this is to use LLMs to generate a key-word database of anomalies and theories.
-This database could then be searched through for potential pairings.
-This approach would not require a dataset of known anomalies and their solutions, but would rely on the LLM's ability to generate relevant keywords and concepts.
-This approach may be more challenging, as it requires the LLM to generate accurate and relevant information without explicit training on anomaly-theory pairs.
-
-Image credits: DALL-E by OpenAI
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1>Harnessing Large Language Models to Uncover Solutions for Unsolved Anomalies</h1>
 <p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett as part of the Ideas Blog</p>
 
 ## Introduction
 
 <img src="/images/anomalous_search.jpeg" style="max-height: 250px; max-width: 100%; margin-right: 16px; margin-bottom: 10px" align=left alt="Anomalous Search Illustration">
-
-
 Unsolved anomalies in science and mathematics have long captivated researchers, representing intriguing gaps in our comprehension of the natural world. These anomalies often challenge existing theories, resisting explanation despite extensive investigation. Traditionally, addressing these puzzles has relied heavily on human intuition, creative problem-solving, and rigorous mathematical analysis. However, the advent of large language models (LLMs) in artificial intelligence offers a transformative approach to tackling these enduring mysteries.
 
 This article explores the potential of leveraging LLMs to unearth solutions to unsolved anomalies. The hypothesis is that existing solutions may already exist within the vast repositories of scientific literature, online data, and other informational sources. By utilizing the advanced capabilities of LLMs, we can systematically search, analyze, and extract these hidden solutions, potentially illuminating long-standing scientific and mathematical enigmas.
