@@ -25,4 +25,5 @@ I would love to hear your thoughts and suggestions on any of these ideas!
 <!-- ####################################################################### -->
 
 # Ideas
+- [Using LLMs to Find Solutions to Unsolved Anomalies](/ideasblog/anomaly_finder/)
 - [$N$-Body Noncollision Singularities For Particle Physics](/ideasblog/noncollision_singularities/)
