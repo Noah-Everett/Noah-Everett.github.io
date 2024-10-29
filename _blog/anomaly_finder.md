@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1>Harnessing Large Language Models to Uncover Solutions for Unsolved Anomalies</h1>
-<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett as part of the Ideas Blog</p>
+<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett (o1-mini by OpenAI) as part of the Ideas Blog</p>
 
 ## Introduction
 
