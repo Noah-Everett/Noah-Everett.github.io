@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1>$N$-Body Noncollision Singularities For Particle Physics</h1>
-<p style="margin: 0;">Originally written: Oct 12, 2024 by Noah Everett as part of the IdeasBlog</p>
+<p style="margin: 0;">Originally written: Oct 12, 2024 by Noah Everett as part of the Ideas Blog</p>
 
 ![Image 1](/images/noncollision.jpeg){: style="width: 100%; object-fit: cover;" }
 
