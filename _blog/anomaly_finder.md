@@ -58,7 +58,7 @@ Description: Utilize LLMs to create a comprehensive keyword database encompassin
 Steps:
 - Keyword Extraction: Use LLMs to parse scientific texts and extract keywords related to various anomalies and theoretical concepts.
 - Database Structuring: Organize the extracted keywords into a searchable database, categorizing them by field, relevance, and interconnections.
- -Search and Matching: Implement search algorithms to identify potential links between anomalies and theories based on keyword similarities and contextual relevance.
+-Search and Matching: Implement search algorithms to identify potential links between anomalies and theories based on keyword similarities and contextual relevance.
 
 Challenges:
 - Accuracy: The effectiveness of this approach hinges on the LLM’s ability to accurately extract and categorize keywords.
