@@ -85,4 +85,4 @@ The convergence of artificial intelligence and scientific inquiry holds immense 
 
 Image Credits: DALL-E by OpenAI
 
-*This article was written with the assistance of o1-mini by OpenAI
+$\textsuperscript{*}$This article was written with the assistance of o1-mini by OpenAI
