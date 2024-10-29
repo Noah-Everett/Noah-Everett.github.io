@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1>Harnessing Large Language Models to Uncover Solutions for Unsolved Anomalies</h1>
-<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett (and o1-mini by OpenAI) as part of the Ideas Blog</p>
+<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett$\textsuperscript{*}$ as part of the Ideas Blog</p>
 
 ## Introduction
 
@@ -84,3 +84,5 @@ Conclusion
 The convergence of artificial intelligence and scientific inquiry holds immense potential for addressing some of the most perplexing anomalies in science and mathematics. By harnessing the power of large language models, researchers can tap into a vast reservoir of knowledge, uncover hidden connections, and generate novel hypotheses that may lead to groundbreaking discoveries. While challenges remain, the theoretical approaches outlined in this article provide a roadmap for leveraging LLMs in the quest to solve unsolved anomalies, ultimately advancing our understanding of the natural world.
 
 Image Credits: DALL-E by OpenAI
+
+*This article was written with the assistance of o1-mini by OpenAI
