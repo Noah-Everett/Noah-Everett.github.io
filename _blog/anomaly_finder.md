@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1>Harnessing Large Language Models to Uncover Solutions for Unsolved Anomalies</h1>
-<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett$\textsuperscript{*}$ as part of the Ideas Blog</p>
+<p style="margin: 0;">Originally written: Oct 29, 2024 by Noah Everett\* as part of the Ideas Blog</p>
 
 ## Introduction
 
@@ -85,4 +85,4 @@ The convergence of artificial intelligence and scientific inquiry holds immense 
 
 Image Credits: DALL-E by OpenAI
 
-$\textsuperscript{*}$This article was written with the assistance of o1-mini by OpenAI
+\*This article was written with the assistance of o1-mini by OpenAI
